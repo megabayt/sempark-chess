@@ -17,6 +17,7 @@
 
 <script>
 import gql from "graphql-tag";
+import groupBy from "lodash/groupBy";
 import AppSection from "./components/Section";
 import AppRoomNoSwitch from "./components/RoomNoSwitch";
 import AppMinimap from "./components/Minimap";
@@ -43,6 +44,21 @@ export default {
       }
     `
   },
+  computed: {
+    sections() {
+      const sections = groupBy(this.flats, 'section');
+      return Object.values(sections).map((flat) => {
+        const floors = groupBy(flat, 'floor');
+        return {
+          floors: Object.values(floors).map((flats) => {
+            return {
+              flats,
+            };
+          }),
+        }
+      });
+    }
+  },
 };
 </script>
 
@@ -64,7 +80,6 @@ export default {
 .chessboard {
   display: flex;
   align-items: flex-end;
-  background: #f8f8f8;
   padding: 20px 40px;
 }
 </style>

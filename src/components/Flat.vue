@@ -1,6 +1,6 @@
 <template>
   <div class="chess-floor__flat">
-    <div class="flat">
+    <div class="flat" v-tooltip="flat.contactInfo">
       {{ this.viewType ? flat.roomNo : flat.roomType }}
     </div>
   </div>
