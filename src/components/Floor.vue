@@ -1,7 +1,7 @@
 <template>
   <div class="chess-section__floor">
     <div class="chess-floor">
-      <div class="chess-floor__number">{{ floorIndex + 1 }}</div>
+      <div class="chess-floor__number">{{ floorIndex + 2 }}</div>
       <div class="chess-floor__body">
         <app-flat
           v-for="(flat, flatIndex) in floor.flats"

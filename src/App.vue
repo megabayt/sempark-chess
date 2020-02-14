@@ -25,21 +25,16 @@ import AppMinimap from "./components/Minimap";
 export default {
   components: { AppSection, AppRoomNoSwitch, AppMinimap },
   apollo: {
-    sections: gql`
+    flats: gql`
       query {
-        sections (sort: "number:asc") {
+        flats (sort: "roomNo:asc", limit: 650) {
           id
-          number
-          floors (sort: "number:asc") {
-            id
-            number
-            flats (sort: "roomNo:asc") {
-              id
-              roomNo
-              roomType
-              contactInfo
-            }
-          }
+          housing
+          section
+          floor
+          roomNo
+          roomType
+          contactInfo
         }
       }
     `
