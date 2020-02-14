@@ -15,27 +15,45 @@
 
     <g id="layer103" stroke="none">
       <path
-        :fill="hovered === 1 ? '#4a4747' : '#fff'"
+        :fill="hoveredSection === 1 ? '#4a4747' : '#fff'"
+        @click="setSelectedSection(1)"
+        @mouseenter="setHoveredSection(1)"
+        @mouseleave="resethoveredSection()"
         d="M60 755 l0 -255 145 0 145 0 0 255 0 255 -145 0 -145 0 0 -255z"
       />
       <path
-        :fill="hovered === 2 ? '#4a4747' : '#fff'"
+        :fill="hoveredSection === 2 ? '#4a4747' : '#fff'"
+        @click="setSelectedSection(2)"
+        @mouseenter="setHoveredSection(2)"
+        @mouseleave="resethoveredSection()"
         d="M90 250 l0 -240 240 0 240 0 0 135 0 135 -105 0 -105 0 0 105 0 105 -135 0 -135 0 0 -240z"
       />
       <path
-        :fill="hovered === 3 ? '#4a4747' : '#fff'"
+        :fill="hoveredSection === 3 ? '#4a4747' : '#fff'"
+        @click="setSelectedSection(3)"
+        @mouseenter="setHoveredSection(3)"
+        @mouseleave="resethoveredSection()"
         d="M580 175 l0 -145 255 0 255 0 0 145 0 145 -255 0 -255 0 0 -145z"
       />
       <path
-        :fill="hovered === 4 ? '#4a4747' : '#fff'"
+        :fill="hoveredSection === 4 ? '#4a4747' : '#fff'"
+        @click="setSelectedSection(4)"
+        @mouseenter="setHoveredSection(4)"
+        @mouseleave="resethoveredSection()"
         d="M1100 175 l0 -145 260 0 260 0 0 145 0 145 -260 0 -260 0 0 -145z"
       />
       <path
-        :fill="hovered === 5 ? '#4a4747' : '#fff'"
+        :fill="hoveredSection === 5 ? '#4a4747' : '#fff'"
+        @click="setSelectedSection(5)"
+        @mouseenter="setHoveredSection(5)"
+        @mouseleave="resethoveredSection()"
         d="M1850 380 l0 -110 -110 0 -110 0 0 -130 0 -130 245 0 245 0 0 240 0 240 -135 0 -135 0 0 -110z"
       />
       <path
-        :fill="hovered === 6 ? '#4a4747' : '#fff'"
+        :fill="hoveredSection === 6 ? '#4a4747' : '#fff'"
+        @click="setSelectedSection(6)"
+        @mouseenter="setHoveredSection(6)"
+        @mouseleave="resethoveredSection()"
         d="M1850 755 l0 -255 145 0 145 0 0 255 0 255 -145 0 -145 0 0 -255z"
       />
     </g>
@@ -47,9 +65,20 @@ import eventBus from '../eventBus';
 
 export default {
   computed: {
-    hovered() {
-      return eventBus.$data.hovered;
+    hoveredSection() {
+      return eventBus.$data.hoveredSection;
     }
+  },
+  methods: {
+    setSelectedSection(val) {
+      eventBus.$data.selectedSection = val;
+    },
+    setHoveredSection(val) {
+      eventBus.$data.hoveredSection = val;
+    },
+    resethoveredSection() {
+      eventBus.$data.hoveredSection = null;
+    },
   }
 };
 </script>

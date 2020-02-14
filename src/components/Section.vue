@@ -27,10 +27,10 @@ export default {
   props: ['section', 'sectionIndex'],
   methods: {
     mouseOver() {
-      eventBus.$data.hovered = this.sectionIndex + 1;
+      eventBus.$data.hoveredSection = this.sectionIndex + 1;
     },
     mouseLeave() {
-      eventBus.$data.hovered = null;
+      eventBus.$data.hoveredSection = null;
     },
   },
 }

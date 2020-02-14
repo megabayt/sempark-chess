@@ -16,7 +16,7 @@
 </template>
 
 <script>
-import gql from "graphql-tag";
+// import gql from "graphql-tag";
 import groupBy from "lodash/groupBy";
 import AppSection from "./components/Section";
 import AppRoomNoSwitch from "./components/RoomNoSwitch";
@@ -24,21 +24,26 @@ import AppMinimap from "./components/Minimap";
 
 export default {
   components: { AppSection, AppRoomNoSwitch, AppMinimap },
-  apollo: {
-    flats: gql`
-      query {
-        flats (sort: "roomNo:asc", limit: 650) {
-          id
-          housing
-          section
-          floor
-          roomNo
-          roomType
-          contactInfo
-        }
-      }
-    `
+  data() {
+    return {
+      flats: require('../chess.json')
+    };
   },
+  // apollo: {
+  //   flats: gql`
+  //     query {
+  //       flats (sort: "roomNo:asc", limit: 650) {
+  //         id
+  //         housing
+  //         section
+  //         floor
+  //         roomNo
+  //         roomType
+  //         contactInfo
+  //       }
+  //     }
+  //   `
+  // },
   computed: {
     sections() {
       const sections = groupBy(this.flats, 'section');
