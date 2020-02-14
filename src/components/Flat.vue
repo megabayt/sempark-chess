@@ -1,6 +1,12 @@
 <template>
   <div class="chess-floor__flat">
-    <div class="flat" v-tooltip="flat.contactInfo">
+    <div
+      :class="{
+        flat: true,
+        'flat-filled': flat.contactInfo !== '',
+      }"
+      v-tooltip="flat.contactInfo"
+    >
       {{ this.viewType ? flat.roomNo : flat.roomType }}
     </div>
   </div>
@@ -34,6 +40,10 @@ export default {
   background-color: #f8f8f8;
   cursor: pointer;
   transition: background-color 0.3s ease, color 0.3s ease;
+}
+.flat-filled {
+  background-color: #5BB31D;
+  color: #fff;
 }
 .flat:hover {
   background-color: #c11f36;
