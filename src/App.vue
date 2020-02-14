@@ -34,7 +34,6 @@ export default {
           floor
           roomNo
           roomType
-          contactInfo
           residents {
             id
             name
