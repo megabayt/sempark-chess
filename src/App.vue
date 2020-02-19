@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div class="top">
-      <app-room-no-switch />
+      <app-flat-no-switch />
       <app-minimap />
     </div>
     <div class="chessboard">
@@ -19,22 +19,22 @@
 import gql from "graphql-tag";
 import groupBy from "lodash/groupBy";
 import AppSection from "./components/Section";
-import AppRoomNoSwitch from "./components/RoomNoSwitch";
+import AppFlatNoSwitch from "./components/FlatNoSwitch";
 import AppMinimap from "./components/Minimap";
 
 export default {
-  components: { AppSection, AppRoomNoSwitch, AppMinimap },
+  components: { AppSection, AppFlatNoSwitch, AppMinimap },
   apollo: {
     flatsFilled: gql`
       query {
-        flatsFilled (sort: "roomNo:asc", limit: 650) {
+        flatsFilled (sort: "flatNo:asc", limit: 650) {
           id
           housing
           section
           floor
-          roomNo
-          roomType
-          hasResident
+          flatNo
+          flatType
+          hasUser
         }
       }
     `

@@ -3,9 +3,12 @@ import ApolloClient from 'apollo-boost'
 import VueApollo from 'vue-apollo'
 import App from './App.vue'
 
+const uri = process.env.NODE_ENV === 'production'
+  ? 'https://api.sempark.xyz/graphql'
+  : 'http://localhost:1337/graphql';
 
 const apolloClient = new ApolloClient({
-  uri: 'https://api.sempark.xyz/graphql'
+  uri,
 })
 
 const apolloProvider = new VueApollo({

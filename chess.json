@@ -4,198 +4,198 @@
     "housing": 1,
     "section": 2,
     "floor": 10,
-    "roomNo": 157,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 157,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "2",
     "housing": 1,
     "section": 4,
     "floor": 9,
-    "roomNo": 354,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 354,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "3",
     "housing": 1,
     "section": 4,
     "floor": 9,
-    "roomNo": 355,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 355,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "4",
     "housing": 1,
     "section": 4,
     "floor": 9,
-    "roomNo": 356,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 356,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "5",
     "housing": 1,
     "section": 1,
     "floor": 2,
-    "roomNo": 1,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 1,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "6",
     "housing": 1,
     "section": 1,
     "floor": 6,
-    "roomNo": 17,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 17,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "7",
     "housing": 1,
     "section": 1,
     "floor": 2,
-    "roomNo": 2,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 2,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "8",
     "housing": 1,
     "section": 1,
     "floor": 2,
-    "roomNo": 3,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 3,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "9",
     "housing": 1,
     "section": 1,
     "floor": 2,
-    "roomNo": 4,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 4,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "10",
     "housing": 1,
     "section": 1,
     "floor": 3,
-    "roomNo": 5,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 5,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "11",
     "housing": 1,
     "section": 1,
     "floor": 3,
-    "roomNo": 6,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 6,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "12",
     "housing": 1,
     "section": 1,
     "floor": 3,
-    "roomNo": 7,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 7,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "13",
     "housing": 1,
     "section": 1,
     "floor": 3,
-    "roomNo": 8,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 8,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "14",
     "housing": 1,
     "section": 1,
     "floor": 4,
-    "roomNo": 9,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 9,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "15",
     "housing": 1,
     "section": 1,
     "floor": 4,
-    "roomNo": 10,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 10,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "16",
     "housing": 1,
     "section": 1,
     "floor": 4,
-    "roomNo": 11,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 11,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "17",
     "housing": 1,
     "section": 1,
     "floor": 4,
-    "roomNo": 12,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 12,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "18",
     "housing": 1,
     "section": 1,
     "floor": 5,
-    "roomNo": 13,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 13,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "19",
     "housing": 1,
     "section": 1,
     "floor": 5,
-    "roomNo": 14,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 14,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "20",
     "housing": 1,
     "section": 1,
     "floor": 5,
-    "roomNo": 15,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 15,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "21",
     "housing": 1,
     "section": 1,
     "floor": 5,
-    "roomNo": 16,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 16,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "22",
     "housing": 1,
     "section": 1,
     "floor": 6,
-    "roomNo": 18,
-    "roomType": "1",
-    "residents": [
+    "flatNo": 18,
+    "flatType": "1",
+    "users": [
       {
         "id": "36"
       }
@@ -206,171 +206,171 @@
     "housing": 1,
     "section": 1,
     "floor": 6,
-    "roomNo": 19,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 19,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "24",
     "housing": 1,
     "section": 1,
     "floor": 6,
-    "roomNo": 20,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 20,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "25",
     "housing": 1,
     "section": 1,
     "floor": 7,
-    "roomNo": 21,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 21,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "26",
     "housing": 1,
     "section": 1,
     "floor": 7,
-    "roomNo": 22,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 22,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "27",
     "housing": 1,
     "section": 1,
     "floor": 7,
-    "roomNo": 23,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 23,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "28",
     "housing": 1,
     "section": 1,
     "floor": 7,
-    "roomNo": 24,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 24,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "29",
     "housing": 1,
     "section": 1,
     "floor": 8,
-    "roomNo": 25,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 25,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "30",
     "housing": 1,
     "section": 1,
     "floor": 8,
-    "roomNo": 26,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 26,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "31",
     "housing": 1,
     "section": 1,
     "floor": 8,
-    "roomNo": 27,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 27,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "32",
     "housing": 1,
     "section": 1,
     "floor": 8,
-    "roomNo": 28,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 28,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "33",
     "housing": 1,
     "section": 1,
     "floor": 9,
-    "roomNo": 29,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 29,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "34",
     "housing": 1,
     "section": 1,
     "floor": 9,
-    "roomNo": 30,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 30,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "35",
     "housing": 1,
     "section": 1,
     "floor": 9,
-    "roomNo": 31,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 31,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "36",
     "housing": 1,
     "section": 1,
     "floor": 9,
-    "roomNo": 32,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 32,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "37",
     "housing": 1,
     "section": 1,
     "floor": 10,
-    "roomNo": 33,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 33,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "38",
     "housing": 1,
     "section": 1,
     "floor": 10,
-    "roomNo": 34,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 34,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "39",
     "housing": 1,
     "section": 1,
     "floor": 10,
-    "roomNo": 35,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 35,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "40",
     "housing": 1,
     "section": 1,
     "floor": 10,
-    "roomNo": 36,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 36,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "41",
     "housing": 1,
     "section": 1,
     "floor": 11,
-    "roomNo": 37,
-    "roomType": "3",
-    "residents": [
+    "flatNo": 37,
+    "flatType": "3",
+    "users": [
       {
         "id": "49"
       }
@@ -381,18 +381,18 @@
     "housing": 1,
     "section": 1,
     "floor": 11,
-    "roomNo": 38,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 38,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "43",
     "housing": 1,
     "section": 1,
     "floor": 11,
-    "roomNo": 40,
-    "roomType": "2",
-    "residents": [
+    "flatNo": 40,
+    "flatType": "2",
+    "users": [
       {
         "id": "41"
       }
@@ -403,99 +403,99 @@
     "housing": 1,
     "section": 1,
     "floor": 11,
-    "roomNo": 39,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 39,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "45",
     "housing": 1,
     "section": 1,
     "floor": 12,
-    "roomNo": 41,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 41,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "46",
     "housing": 1,
     "section": 1,
     "floor": 12,
-    "roomNo": 43,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 43,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "47",
     "housing": 1,
     "section": 1,
     "floor": 12,
-    "roomNo": 42,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 42,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "48",
     "housing": 1,
     "section": 1,
     "floor": 12,
-    "roomNo": 44,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 44,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "49",
     "housing": 1,
     "section": 1,
     "floor": 13,
-    "roomNo": 45,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 45,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "50",
     "housing": 1,
     "section": 1,
     "floor": 13,
-    "roomNo": 47,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 47,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "51",
     "housing": 1,
     "section": 1,
     "floor": 13,
-    "roomNo": 46,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 46,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "52",
     "housing": 1,
     "section": 1,
     "floor": 13,
-    "roomNo": 48,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 48,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "53",
     "housing": 1,
     "section": 1,
     "floor": 14,
-    "roomNo": 49,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 49,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "54",
     "housing": 1,
     "section": 1,
     "floor": 14,
-    "roomNo": 50,
-    "roomType": "1",
-    "residents": [
+    "flatNo": 50,
+    "flatType": "1",
+    "users": [
       {
         "id": "33"
       }
@@ -506,18 +506,18 @@
     "housing": 1,
     "section": 1,
     "floor": 14,
-    "roomNo": 51,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 51,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "56",
     "housing": 1,
     "section": 1,
     "floor": 14,
-    "roomNo": 52,
-    "roomType": "2",
-    "residents": [
+    "flatNo": 52,
+    "flatType": "2",
+    "users": [
       {
         "id": "42"
       },
@@ -531,450 +531,450 @@
     "housing": 1,
     "section": 1,
     "floor": 15,
-    "roomNo": 53,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 53,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "58",
     "housing": 1,
     "section": 1,
     "floor": 15,
-    "roomNo": 54,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 54,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "59",
     "housing": 1,
     "section": 1,
     "floor": 15,
-    "roomNo": 55,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 55,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "60",
     "housing": 1,
     "section": 1,
     "floor": 15,
-    "roomNo": 56,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 56,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "61",
     "housing": 1,
     "section": 1,
     "floor": 16,
-    "roomNo": 57,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 57,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "62",
     "housing": 1,
     "section": 1,
     "floor": 16,
-    "roomNo": 58,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 58,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "63",
     "housing": 1,
     "section": 1,
     "floor": 16,
-    "roomNo": 59,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 59,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "64",
     "housing": 1,
     "section": 1,
     "floor": 17,
-    "roomNo": 61,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 61,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "65",
     "housing": 1,
     "section": 1,
     "floor": 16,
-    "roomNo": 60,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 60,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "66",
     "housing": 1,
     "section": 1,
     "floor": 17,
-    "roomNo": 62,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 62,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "67",
     "housing": 1,
     "section": 1,
     "floor": 17,
-    "roomNo": 63,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 63,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "68",
     "housing": 1,
     "section": 1,
     "floor": 17,
-    "roomNo": 64,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 64,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "69",
     "housing": 1,
     "section": 1,
     "floor": 18,
-    "roomNo": 65,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 65,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "70",
     "housing": 1,
     "section": 1,
     "floor": 18,
-    "roomNo": 66,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 66,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "71",
     "housing": 1,
     "section": 1,
     "floor": 18,
-    "roomNo": 68,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 68,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "72",
     "housing": 1,
     "section": 1,
     "floor": 18,
-    "roomNo": 67,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 67,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "73",
     "housing": 1,
     "section": 1,
     "floor": 19,
-    "roomNo": 70,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 70,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "74",
     "housing": 1,
     "section": 1,
     "floor": 19,
-    "roomNo": 69,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 69,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "75",
     "housing": 1,
     "section": 1,
     "floor": 19,
-    "roomNo": 71,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 71,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "76",
     "housing": 1,
     "section": 1,
     "floor": 19,
-    "roomNo": 72,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 72,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "77",
     "housing": 1,
     "section": 1,
     "floor": 20,
-    "roomNo": 73,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 73,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "78",
     "housing": 1,
     "section": 1,
     "floor": 20,
-    "roomNo": 74,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 74,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "79",
     "housing": 1,
     "section": 1,
     "floor": 20,
-    "roomNo": 75,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 75,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "80",
     "housing": 1,
     "section": 1,
     "floor": 20,
-    "roomNo": 76,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 76,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "81",
     "housing": 1,
     "section": 1,
     "floor": 21,
-    "roomNo": 77,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 77,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "82",
     "housing": 1,
     "section": 1,
     "floor": 21,
-    "roomNo": 78,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 78,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "83",
     "housing": 1,
     "section": 1,
     "floor": 21,
-    "roomNo": 79,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 79,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "84",
     "housing": 1,
     "section": 1,
     "floor": 21,
-    "roomNo": 80,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 80,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "85",
     "housing": 1,
     "section": 1,
     "floor": 22,
-    "roomNo": 82,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 82,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "86",
     "housing": 1,
     "section": 1,
     "floor": 22,
-    "roomNo": 81,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 81,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "87",
     "housing": 1,
     "section": 1,
     "floor": 22,
-    "roomNo": 84,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 84,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "88",
     "housing": 1,
     "section": 1,
     "floor": 22,
-    "roomNo": 83,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 83,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "89",
     "housing": 1,
     "section": 1,
     "floor": 23,
-    "roomNo": 86,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 86,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "90",
     "housing": 1,
     "section": 1,
     "floor": 23,
-    "roomNo": 85,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 85,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "91",
     "housing": 1,
     "section": 1,
     "floor": 23,
-    "roomNo": 88,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 88,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "92",
     "housing": 1,
     "section": 1,
     "floor": 23,
-    "roomNo": 87,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 87,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "93",
     "housing": 1,
     "section": 1,
     "floor": 24,
-    "roomNo": 89,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 89,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "94",
     "housing": 1,
     "section": 1,
     "floor": 24,
-    "roomNo": 91,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 91,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "95",
     "housing": 1,
     "section": 1,
     "floor": 24,
-    "roomNo": 90,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 90,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "96",
     "housing": 1,
     "section": 1,
     "floor": 24,
-    "roomNo": 92,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 92,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "97",
     "housing": 1,
     "section": 1,
     "floor": 25,
-    "roomNo": 93,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 93,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "98",
     "housing": 1,
     "section": 1,
     "floor": 25,
-    "roomNo": 94,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 94,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "99",
     "housing": 1,
     "section": 1,
     "floor": 25,
-    "roomNo": 95,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 95,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "100",
     "housing": 1,
     "section": 1,
     "floor": 25,
-    "roomNo": 96,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 96,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "101",
     "housing": 1,
     "section": 2,
     "floor": 2,
-    "roomNo": 97,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 97,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "102",
     "housing": 1,
     "section": 2,
     "floor": 2,
-    "roomNo": 99,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 99,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "103",
     "housing": 1,
     "section": 2,
     "floor": 2,
-    "roomNo": 98,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 98,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "104",
     "housing": 1,
     "section": 2,
     "floor": 2,
-    "roomNo": 100,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 100,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "105",
     "housing": 1,
     "section": 2,
     "floor": 2,
-    "roomNo": 101,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 101,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "106",
     "housing": 1,
     "section": 2,
     "floor": 2,
-    "roomNo": 102,
-    "roomType": "3",
-    "residents": [
+    "flatNo": 102,
+    "flatType": "3",
+    "users": [
       {
         "id": "44"
       }
@@ -985,180 +985,180 @@
     "housing": 1,
     "section": 2,
     "floor": 2,
-    "roomNo": 103,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 103,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "108",
     "housing": 1,
     "section": 2,
     "floor": 3,
-    "roomNo": 104,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 104,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "109",
     "housing": 1,
     "section": 2,
     "floor": 3,
-    "roomNo": 105,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 105,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "110",
     "housing": 1,
     "section": 2,
     "floor": 3,
-    "roomNo": 106,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 106,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "111",
     "housing": 1,
     "section": 2,
     "floor": 3,
-    "roomNo": 107,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 107,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "112",
     "housing": 1,
     "section": 2,
     "floor": 3,
-    "roomNo": 108,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 108,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "113",
     "housing": 1,
     "section": 2,
     "floor": 3,
-    "roomNo": 109,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 109,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "114",
     "housing": 1,
     "section": 2,
     "floor": 3,
-    "roomNo": 110,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 110,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "115",
     "housing": 1,
     "section": 2,
     "floor": 4,
-    "roomNo": 111,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 111,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "116",
     "housing": 1,
     "section": 2,
     "floor": 4,
-    "roomNo": 112,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 112,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "117",
     "housing": 1,
     "section": 2,
     "floor": 4,
-    "roomNo": 113,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 113,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "118",
     "housing": 1,
     "section": 2,
     "floor": 4,
-    "roomNo": 114,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 114,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "119",
     "housing": 1,
     "section": 2,
     "floor": 4,
-    "roomNo": 115,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 115,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "120",
     "housing": 1,
     "section": 2,
     "floor": 4,
-    "roomNo": 116,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 116,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "121",
     "housing": 1,
     "section": 2,
     "floor": 4,
-    "roomNo": 117,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 117,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "122",
     "housing": 1,
     "section": 2,
     "floor": 5,
-    "roomNo": 118,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 118,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "123",
     "housing": 1,
     "section": 2,
     "floor": 5,
-    "roomNo": 119,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 119,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "124",
     "housing": 1,
     "section": 2,
     "floor": 5,
-    "roomNo": 120,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 120,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "125",
     "housing": 1,
     "section": 2,
     "floor": 5,
-    "roomNo": 121,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 121,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "126",
     "housing": 1,
     "section": 2,
     "floor": 5,
-    "roomNo": 122,
-    "roomType": "2",
-    "residents": [
+    "flatNo": 122,
+    "flatType": "2",
+    "users": [
       {
         "id": "9"
       },
@@ -1175,126 +1175,126 @@
     "housing": 1,
     "section": 2,
     "floor": 5,
-    "roomNo": 123,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 123,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "128",
     "housing": 1,
     "section": 2,
     "floor": 5,
-    "roomNo": 124,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 124,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "129",
     "housing": 1,
     "section": 2,
     "floor": 6,
-    "roomNo": 125,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 125,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "130",
     "housing": 1,
     "section": 2,
     "floor": 6,
-    "roomNo": 126,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 126,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "131",
     "housing": 1,
     "section": 2,
     "floor": 6,
-    "roomNo": 127,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 127,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "132",
     "housing": 1,
     "section": 2,
     "floor": 6,
-    "roomNo": 128,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 128,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "133",
     "housing": 1,
     "section": 2,
     "floor": 6,
-    "roomNo": 129,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 129,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "134",
     "housing": 1,
     "section": 2,
     "floor": 6,
-    "roomNo": 130,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 130,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "135",
     "housing": 1,
     "section": 2,
     "floor": 6,
-    "roomNo": 131,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 131,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "136",
     "housing": 1,
     "section": 2,
     "floor": 7,
-    "roomNo": 132,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 132,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "137",
     "housing": 1,
     "section": 2,
     "floor": 7,
-    "roomNo": 134,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 134,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "138",
     "housing": 1,
     "section": 2,
     "floor": 7,
-    "roomNo": 133,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 133,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "139",
     "housing": 1,
     "section": 2,
     "floor": 7,
-    "roomNo": 135,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 135,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "140",
     "housing": 1,
     "section": 2,
     "floor": 7,
-    "roomNo": 136,
-    "roomType": "2",
-    "residents": [
+    "flatNo": 136,
+    "flatType": "2",
+    "users": [
       {
         "id": "22"
       }
@@ -1305,207 +1305,207 @@
     "housing": 1,
     "section": 2,
     "floor": 7,
-    "roomNo": 137,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 137,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "142",
     "housing": 1,
     "section": 2,
     "floor": 7,
-    "roomNo": 138,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 138,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "143",
     "housing": 1,
     "section": 2,
     "floor": 8,
-    "roomNo": 139,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 139,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "144",
     "housing": 1,
     "section": 2,
     "floor": 8,
-    "roomNo": 140,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 140,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "145",
     "housing": 1,
     "section": 2,
     "floor": 8,
-    "roomNo": 141,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 141,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "146",
     "housing": 1,
     "section": 2,
     "floor": 8,
-    "roomNo": 142,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 142,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "147",
     "housing": 1,
     "section": 2,
     "floor": 8,
-    "roomNo": 143,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 143,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "148",
     "housing": 1,
     "section": 2,
     "floor": 8,
-    "roomNo": 144,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 144,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "149",
     "housing": 1,
     "section": 2,
     "floor": 8,
-    "roomNo": 145,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 145,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "150",
     "housing": 1,
     "section": 2,
     "floor": 9,
-    "roomNo": 146,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 146,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "151",
     "housing": 1,
     "section": 2,
     "floor": 9,
-    "roomNo": 147,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 147,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "152",
     "housing": 1,
     "section": 2,
     "floor": 9,
-    "roomNo": 148,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 148,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "153",
     "housing": 1,
     "section": 2,
     "floor": 9,
-    "roomNo": 150,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 150,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "154",
     "housing": 1,
     "section": 2,
     "floor": 9,
-    "roomNo": 149,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 149,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "155",
     "housing": 1,
     "section": 2,
     "floor": 9,
-    "roomNo": 151,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 151,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "156",
     "housing": 1,
     "section": 2,
     "floor": 9,
-    "roomNo": 152,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 152,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "157",
     "housing": 1,
     "section": 2,
     "floor": 10,
-    "roomNo": 153,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 153,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "158",
     "housing": 1,
     "section": 2,
     "floor": 10,
-    "roomNo": 154,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 154,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "159",
     "housing": 1,
     "section": 2,
     "floor": 10,
-    "roomNo": 155,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 155,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "160",
     "housing": 1,
     "section": 2,
     "floor": 10,
-    "roomNo": 156,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 156,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "161",
     "housing": 1,
     "section": 2,
     "floor": 10,
-    "roomNo": 158,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 158,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "162",
     "housing": 1,
     "section": 2,
     "floor": 10,
-    "roomNo": 159,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 159,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "163",
     "housing": 1,
     "section": 2,
     "floor": 11,
-    "roomNo": 160,
-    "roomType": "1",
-    "residents": [
+    "flatNo": 160,
+    "flatType": "1",
+    "users": [
       {
         "id": "24"
       }
@@ -1516,378 +1516,378 @@
     "housing": 1,
     "section": 2,
     "floor": 11,
-    "roomNo": 161,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 161,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "165",
     "housing": 1,
     "section": 2,
     "floor": 11,
-    "roomNo": 162,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 162,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "166",
     "housing": 1,
     "section": 2,
     "floor": 11,
-    "roomNo": 163,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 163,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "167",
     "housing": 1,
     "section": 2,
     "floor": 11,
-    "roomNo": 164,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 164,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "168",
     "housing": 1,
     "section": 2,
     "floor": 11,
-    "roomNo": 165,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 165,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "169",
     "housing": 1,
     "section": 2,
     "floor": 11,
-    "roomNo": 166,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 166,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "170",
     "housing": 1,
     "section": 2,
     "floor": 12,
-    "roomNo": 167,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 167,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "171",
     "housing": 1,
     "section": 2,
     "floor": 12,
-    "roomNo": 168,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 168,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "172",
     "housing": 1,
     "section": 2,
     "floor": 12,
-    "roomNo": 169,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 169,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "173",
     "housing": 1,
     "section": 2,
     "floor": 12,
-    "roomNo": 170,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 170,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "174",
     "housing": 1,
     "section": 2,
     "floor": 12,
-    "roomNo": 171,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 171,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "175",
     "housing": 1,
     "section": 2,
     "floor": 12,
-    "roomNo": 172,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 172,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "176",
     "housing": 1,
     "section": 2,
     "floor": 12,
-    "roomNo": 173,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 173,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "177",
     "housing": 1,
     "section": 2,
     "floor": 13,
-    "roomNo": 174,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 174,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "178",
     "housing": 1,
     "section": 2,
     "floor": 13,
-    "roomNo": 175,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 175,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "179",
     "housing": 1,
     "section": 2,
     "floor": 13,
-    "roomNo": 176,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 176,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "180",
     "housing": 1,
     "section": 2,
     "floor": 13,
-    "roomNo": 177,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 177,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "181",
     "housing": 1,
     "section": 2,
     "floor": 13,
-    "roomNo": 178,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 178,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "182",
     "housing": 1,
     "section": 2,
     "floor": 13,
-    "roomNo": 179,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 179,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "183",
     "housing": 1,
     "section": 2,
     "floor": 13,
-    "roomNo": 180,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 180,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "184",
     "housing": 1,
     "section": 2,
     "floor": 14,
-    "roomNo": 181,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 181,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "185",
     "housing": 1,
     "section": 2,
     "floor": 14,
-    "roomNo": 182,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 182,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "186",
     "housing": 1,
     "section": 2,
     "floor": 14,
-    "roomNo": 183,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 183,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "187",
     "housing": 1,
     "section": 2,
     "floor": 14,
-    "roomNo": 184,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 184,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "188",
     "housing": 1,
     "section": 2,
     "floor": 14,
-    "roomNo": 186,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 186,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "189",
     "housing": 1,
     "section": 2,
     "floor": 14,
-    "roomNo": 185,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 185,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "190",
     "housing": 1,
     "section": 2,
     "floor": 15,
-    "roomNo": 188,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 188,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "191",
     "housing": 1,
     "section": 2,
     "floor": 14,
-    "roomNo": 187,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 187,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "192",
     "housing": 1,
     "section": 2,
     "floor": 15,
-    "roomNo": 189,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 189,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "193",
     "housing": 1,
     "section": 2,
     "floor": 15,
-    "roomNo": 190,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 190,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "194",
     "housing": 1,
     "section": 2,
     "floor": 15,
-    "roomNo": 191,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 191,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "195",
     "housing": 1,
     "section": 2,
     "floor": 15,
-    "roomNo": 192,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 192,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "196",
     "housing": 1,
     "section": 2,
     "floor": 15,
-    "roomNo": 193,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 193,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "197",
     "housing": 1,
     "section": 2,
     "floor": 15,
-    "roomNo": 194,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 194,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "198",
     "housing": 1,
     "section": 2,
     "floor": 16,
-    "roomNo": 195,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 195,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "199",
     "housing": 1,
     "section": 2,
     "floor": 16,
-    "roomNo": 196,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 196,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "200",
     "housing": 1,
     "section": 2,
     "floor": 16,
-    "roomNo": 197,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 197,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "201",
     "housing": 1,
     "section": 2,
     "floor": 16,
-    "roomNo": 198,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 198,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "202",
     "housing": 1,
     "section": 2,
     "floor": 16,
-    "roomNo": 199,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 199,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "203",
     "housing": 1,
     "section": 2,
     "floor": 16,
-    "roomNo": 200,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 200,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "204",
     "housing": 1,
     "section": 2,
     "floor": 17,
-    "roomNo": 202,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 202,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "205",
     "housing": 1,
     "section": 2,
     "floor": 17,
-    "roomNo": 203,
-    "roomType": "C",
-    "residents": [
+    "flatNo": 203,
+    "flatType": "C",
+    "users": [
       {
         "id": "1"
       },
@@ -1901,135 +1901,135 @@
     "housing": 1,
     "section": 2,
     "floor": 16,
-    "roomNo": 201,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 201,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "207",
     "housing": 1,
     "section": 2,
     "floor": 17,
-    "roomNo": 204,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 204,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "208",
     "housing": 1,
     "section": 2,
     "floor": 17,
-    "roomNo": 205,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 205,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "209",
     "housing": 1,
     "section": 2,
     "floor": 17,
-    "roomNo": 206,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 206,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "210",
     "housing": 1,
     "section": 2,
     "floor": 17,
-    "roomNo": 207,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 207,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "211",
     "housing": 1,
     "section": 2,
     "floor": 17,
-    "roomNo": 208,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 208,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "212",
     "housing": 1,
     "section": 2,
     "floor": 18,
-    "roomNo": 209,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 209,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "213",
     "housing": 1,
     "section": 2,
     "floor": 18,
-    "roomNo": 210,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 210,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "214",
     "housing": 1,
     "section": 2,
     "floor": 18,
-    "roomNo": 211,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 211,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "215",
     "housing": 1,
     "section": 2,
     "floor": 18,
-    "roomNo": 212,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 212,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "216",
     "housing": 1,
     "section": 2,
     "floor": 18,
-    "roomNo": 213,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 213,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "217",
     "housing": 1,
     "section": 2,
     "floor": 18,
-    "roomNo": 214,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 214,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "218",
     "housing": 1,
     "section": 2,
     "floor": 18,
-    "roomNo": 215,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 215,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "219",
     "housing": 1,
     "section": 2,
     "floor": 19,
-    "roomNo": 216,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 216,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "220",
     "housing": 1,
     "section": 2,
     "floor": 19,
-    "roomNo": 217,
-    "roomType": "C",
-    "residents": [
+    "flatNo": 217,
+    "flatType": "C",
+    "users": [
       {
         "id": "30"
       }
@@ -2040,27 +2040,27 @@
     "housing": 1,
     "section": 2,
     "floor": 19,
-    "roomNo": 218,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 218,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "222",
     "housing": 1,
     "section": 2,
     "floor": 19,
-    "roomNo": 219,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 219,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "223",
     "housing": 1,
     "section": 2,
     "floor": 19,
-    "roomNo": 220,
-    "roomType": "2",
-    "residents": [
+    "flatNo": 220,
+    "flatType": "2",
+    "users": [
       {
         "id": "18"
       }
@@ -2071,36 +2071,36 @@
     "housing": 1,
     "section": 2,
     "floor": 19,
-    "roomNo": 221,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 221,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "225",
     "housing": 1,
     "section": 2,
     "floor": 19,
-    "roomNo": 222,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 222,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "226",
     "housing": 1,
     "section": 2,
     "floor": 20,
-    "roomNo": 223,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 223,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "227",
     "housing": 1,
     "section": 2,
     "floor": 20,
-    "roomNo": 225,
-    "roomType": "1",
-    "residents": [
+    "flatNo": 225,
+    "flatType": "1",
+    "users": [
       {
         "id": "47"
       }
@@ -2111,180 +2111,180 @@
     "housing": 1,
     "section": 2,
     "floor": 20,
-    "roomNo": 226,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 226,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "229",
     "housing": 1,
     "section": 2,
     "floor": 20,
-    "roomNo": 224,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 224,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "230",
     "housing": 1,
     "section": 2,
     "floor": 20,
-    "roomNo": 227,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 227,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "231",
     "housing": 1,
     "section": 2,
     "floor": 20,
-    "roomNo": 228,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 228,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "232",
     "housing": 1,
     "section": 2,
     "floor": 20,
-    "roomNo": 229,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 229,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "233",
     "housing": 1,
     "section": 3,
     "floor": 2,
-    "roomNo": 230,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 230,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "234",
     "housing": 1,
     "section": 3,
     "floor": 2,
-    "roomNo": 231,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 231,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "235",
     "housing": 1,
     "section": 3,
     "floor": 2,
-    "roomNo": 232,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 232,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "236",
     "housing": 1,
     "section": 3,
     "floor": 2,
-    "roomNo": 233,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 233,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "237",
     "housing": 1,
     "section": 3,
     "floor": 3,
-    "roomNo": 234,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 234,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "238",
     "housing": 1,
     "section": 3,
     "floor": 3,
-    "roomNo": 235,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 235,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "239",
     "housing": 1,
     "section": 3,
     "floor": 3,
-    "roomNo": 236,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 236,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "240",
     "housing": 1,
     "section": 3,
     "floor": 3,
-    "roomNo": 237,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 237,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "241",
     "housing": 1,
     "section": 3,
     "floor": 4,
-    "roomNo": 238,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 238,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "242",
     "housing": 1,
     "section": 3,
     "floor": 4,
-    "roomNo": 239,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 239,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "243",
     "housing": 1,
     "section": 3,
     "floor": 4,
-    "roomNo": 240,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 240,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "244",
     "housing": 1,
     "section": 3,
     "floor": 4,
-    "roomNo": 241,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 241,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "245",
     "housing": 1,
     "section": 3,
     "floor": 5,
-    "roomNo": 242,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 242,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "246",
     "housing": 1,
     "section": 3,
     "floor": 5,
-    "roomNo": 243,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 243,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "247",
     "housing": 1,
     "section": 3,
     "floor": 5,
-    "roomNo": 244,
-    "roomType": "2",
-    "residents": [
+    "flatNo": 244,
+    "flatType": "2",
+    "users": [
       {
         "id": "52"
       }
@@ -2295,45 +2295,45 @@
     "housing": 1,
     "section": 3,
     "floor": 5,
-    "roomNo": 245,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 245,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "249",
     "housing": 1,
     "section": 3,
     "floor": 6,
-    "roomNo": 247,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 247,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "250",
     "housing": 1,
     "section": 3,
     "floor": 6,
-    "roomNo": 246,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 246,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "251",
     "housing": 1,
     "section": 3,
     "floor": 6,
-    "roomNo": 248,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 248,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "252",
     "housing": 1,
     "section": 3,
     "floor": 6,
-    "roomNo": 249,
-    "roomType": "2",
-    "residents": [
+    "flatNo": 249,
+    "flatType": "2",
+    "users": [
       {
         "id": "65"
       }
@@ -2344,9 +2344,9 @@
     "housing": 1,
     "section": 3,
     "floor": 7,
-    "roomNo": 250,
-    "roomType": "3",
-    "residents": [
+    "flatNo": 250,
+    "flatType": "3",
+    "users": [
       {
         "id": "66"
       }
@@ -2357,126 +2357,126 @@
     "housing": 1,
     "section": 3,
     "floor": 7,
-    "roomNo": 251,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 251,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "255",
     "housing": 1,
     "section": 3,
     "floor": 7,
-    "roomNo": 252,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 252,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "256",
     "housing": 1,
     "section": 3,
     "floor": 7,
-    "roomNo": 253,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 253,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "257",
     "housing": 1,
     "section": 3,
     "floor": 8,
-    "roomNo": 254,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 254,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "258",
     "housing": 1,
     "section": 3,
     "floor": 8,
-    "roomNo": 255,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 255,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "259",
     "housing": 1,
     "section": 3,
     "floor": 8,
-    "roomNo": 257,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 257,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "260",
     "housing": 1,
     "section": 3,
     "floor": 8,
-    "roomNo": 256,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 256,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "261",
     "housing": 1,
     "section": 3,
     "floor": 9,
-    "roomNo": 258,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 258,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "262",
     "housing": 1,
     "section": 3,
     "floor": 9,
-    "roomNo": 259,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 259,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "263",
     "housing": 1,
     "section": 3,
     "floor": 9,
-    "roomNo": 260,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 260,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "264",
     "housing": 1,
     "section": 3,
     "floor": 9,
-    "roomNo": 261,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 261,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "265",
     "housing": 1,
     "section": 3,
     "floor": 10,
-    "roomNo": 263,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 263,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "266",
     "housing": 1,
     "section": 3,
     "floor": 10,
-    "roomNo": 262,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 262,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "267",
     "housing": 1,
     "section": 3,
     "floor": 10,
-    "roomNo": 265,
-    "roomType": "2",
-    "residents": [
+    "flatNo": 265,
+    "flatType": "2",
+    "users": [
       {
         "id": "53"
       },
@@ -2490,63 +2490,63 @@
     "housing": 1,
     "section": 3,
     "floor": 10,
-    "roomNo": 264,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 264,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "269",
     "housing": 1,
     "section": 3,
     "floor": 11,
-    "roomNo": 266,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 266,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "270",
     "housing": 1,
     "section": 3,
     "floor": 11,
-    "roomNo": 267,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 267,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "271",
     "housing": 1,
     "section": 3,
     "floor": 11,
-    "roomNo": 268,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 268,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "272",
     "housing": 1,
     "section": 3,
     "floor": 11,
-    "roomNo": 269,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 269,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "273",
     "housing": 1,
     "section": 3,
     "floor": 12,
-    "roomNo": 271,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 271,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "274",
     "housing": 1,
     "section": 3,
     "floor": 12,
-    "roomNo": 270,
-    "roomType": "3",
-    "residents": [
+    "flatNo": 270,
+    "flatType": "3",
+    "users": [
       {
         "id": "51"
       }
@@ -2557,36 +2557,36 @@
     "housing": 1,
     "section": 3,
     "floor": 12,
-    "roomNo": 272,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 272,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "276",
     "housing": 1,
     "section": 3,
     "floor": 12,
-    "roomNo": 273,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 273,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "277",
     "housing": 1,
     "section": 3,
     "floor": 13,
-    "roomNo": 274,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 274,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "278",
     "housing": 1,
     "section": 3,
     "floor": 13,
-    "roomNo": 275,
-    "roomType": "1",
-    "residents": [
+    "flatNo": 275,
+    "flatType": "1",
+    "users": [
       {
         "id": "14"
       }
@@ -2597,27 +2597,27 @@
     "housing": 1,
     "section": 3,
     "floor": 13,
-    "roomNo": 276,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 276,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "280",
     "housing": 1,
     "section": 3,
     "floor": 13,
-    "roomNo": 277,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 277,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "281",
     "housing": 1,
     "section": 3,
     "floor": 14,
-    "roomNo": 278,
-    "roomType": "3",
-    "residents": [
+    "flatNo": 278,
+    "flatType": "3",
+    "users": [
       {
         "id": "31"
       }
@@ -2628,45 +2628,45 @@
     "housing": 1,
     "section": 3,
     "floor": 14,
-    "roomNo": 279,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 279,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "283",
     "housing": 1,
     "section": 3,
     "floor": 14,
-    "roomNo": 280,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 280,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "284",
     "housing": 1,
     "section": 3,
     "floor": 14,
-    "roomNo": 281,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 281,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "285",
     "housing": 1,
     "section": 3,
     "floor": 15,
-    "roomNo": 282,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 282,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "286",
     "housing": 1,
     "section": 3,
     "floor": 15,
-    "roomNo": 283,
-    "roomType": "1",
-    "residents": [
+    "flatNo": 283,
+    "flatType": "1",
+    "users": [
       {
         "id": "37"
       }
@@ -2677,27 +2677,27 @@
     "housing": 1,
     "section": 3,
     "floor": 15,
-    "roomNo": 285,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 285,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "288",
     "housing": 1,
     "section": 3,
     "floor": 15,
-    "roomNo": 284,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 284,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "289",
     "housing": 1,
     "section": 3,
     "floor": 16,
-    "roomNo": 287,
-    "roomType": "1",
-    "residents": [
+    "flatNo": 287,
+    "flatType": "1",
+    "users": [
       {
         "id": "5"
       }
@@ -2708,36 +2708,36 @@
     "housing": 1,
     "section": 3,
     "floor": 16,
-    "roomNo": 286,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 286,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "291",
     "housing": 1,
     "section": 3,
     "floor": 16,
-    "roomNo": 288,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 288,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "292",
     "housing": 1,
     "section": 3,
     "floor": 16,
-    "roomNo": 289,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 289,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "293",
     "housing": 1,
     "section": 3,
     "floor": 17,
-    "roomNo": 290,
-    "roomType": "3",
-    "residents": [
+    "flatNo": 290,
+    "flatType": "3",
+    "users": [
       {
         "id": "4"
       }
@@ -2748,180 +2748,180 @@
     "housing": 1,
     "section": 3,
     "floor": 17,
-    "roomNo": 291,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 291,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "295",
     "housing": 1,
     "section": 3,
     "floor": 17,
-    "roomNo": 292,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 292,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "296",
     "housing": 1,
     "section": 3,
     "floor": 17,
-    "roomNo": 293,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 293,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "297",
     "housing": 1,
     "section": 3,
     "floor": 18,
-    "roomNo": 294,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 294,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "298",
     "housing": 1,
     "section": 3,
     "floor": 18,
-    "roomNo": 296,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 296,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "299",
     "housing": 1,
     "section": 3,
     "floor": 18,
-    "roomNo": 295,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 295,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "300",
     "housing": 1,
     "section": 3,
     "floor": 18,
-    "roomNo": 297,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 297,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "301",
     "housing": 1,
     "section": 3,
     "floor": 19,
-    "roomNo": 298,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 298,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "302",
     "housing": 1,
     "section": 3,
     "floor": 19,
-    "roomNo": 300,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 300,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "303",
     "housing": 1,
     "section": 3,
     "floor": 19,
-    "roomNo": 299,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 299,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "304",
     "housing": 1,
     "section": 3,
     "floor": 19,
-    "roomNo": 301,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 301,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "305",
     "housing": 1,
     "section": 3,
     "floor": 20,
-    "roomNo": 302,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 302,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "306",
     "housing": 1,
     "section": 3,
     "floor": 20,
-    "roomNo": 303,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 303,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "307",
     "housing": 1,
     "section": 3,
     "floor": 20,
-    "roomNo": 304,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 304,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "308",
     "housing": 1,
     "section": 3,
     "floor": 20,
-    "roomNo": 305,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 305,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "309",
     "housing": 1,
     "section": 3,
     "floor": 21,
-    "roomNo": 306,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 306,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "310",
     "housing": 1,
     "section": 3,
     "floor": 21,
-    "roomNo": 307,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 307,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "311",
     "housing": 1,
     "section": 3,
     "floor": 21,
-    "roomNo": 308,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 308,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "312",
     "housing": 1,
     "section": 3,
     "floor": 21,
-    "roomNo": 309,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 309,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "313",
     "housing": 1,
     "section": 3,
     "floor": 22,
-    "roomNo": 310,
-    "roomType": "3",
-    "residents": [
+    "flatNo": 310,
+    "flatType": "3",
+    "users": [
       {
         "id": "3"
       },
@@ -2935,99 +2935,99 @@
     "housing": 1,
     "section": 3,
     "floor": 22,
-    "roomNo": 311,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 311,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "315",
     "housing": 1,
     "section": 3,
     "floor": 22,
-    "roomNo": 312,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 312,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "316",
     "housing": 1,
     "section": 3,
     "floor": 22,
-    "roomNo": 313,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 313,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "317",
     "housing": 1,
     "section": 3,
     "floor": 23,
-    "roomNo": 314,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 314,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "318",
     "housing": 1,
     "section": 3,
     "floor": 23,
-    "roomNo": 316,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 316,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "319",
     "housing": 1,
     "section": 3,
     "floor": 23,
-    "roomNo": 315,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 315,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "320",
     "housing": 1,
     "section": 3,
     "floor": 23,
-    "roomNo": 317,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 317,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "321",
     "housing": 1,
     "section": 3,
     "floor": 24,
-    "roomNo": 319,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 319,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "322",
     "housing": 1,
     "section": 3,
     "floor": 24,
-    "roomNo": 318,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 318,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "323",
     "housing": 1,
     "section": 3,
     "floor": 24,
-    "roomNo": 320,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 320,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "324",
     "housing": 1,
     "section": 3,
     "floor": 24,
-    "roomNo": 321,
-    "roomType": "2",
-    "residents": [
+    "flatNo": 321,
+    "flatType": "2",
+    "users": [
       {
         "id": "19"
       }
@@ -3038,117 +3038,117 @@
     "housing": 1,
     "section": 3,
     "floor": 25,
-    "roomNo": 322,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 322,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "326",
     "housing": 1,
     "section": 3,
     "floor": 25,
-    "roomNo": 323,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 323,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "327",
     "housing": 1,
     "section": 3,
     "floor": 25,
-    "roomNo": 324,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 324,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "328",
     "housing": 1,
     "section": 3,
     "floor": 25,
-    "roomNo": 325,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 325,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "329",
     "housing": 1,
     "section": 4,
     "floor": 2,
-    "roomNo": 326,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 326,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "330",
     "housing": 1,
     "section": 4,
     "floor": 2,
-    "roomNo": 327,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 327,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "331",
     "housing": 1,
     "section": 4,
     "floor": 2,
-    "roomNo": 328,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 328,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "332",
     "housing": 1,
     "section": 4,
     "floor": 2,
-    "roomNo": 329,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 329,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "333",
     "housing": 1,
     "section": 4,
     "floor": 3,
-    "roomNo": 330,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 330,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "334",
     "housing": 1,
     "section": 4,
     "floor": 3,
-    "roomNo": 331,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 331,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "335",
     "housing": 1,
     "section": 4,
     "floor": 3,
-    "roomNo": 333,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 333,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "336",
     "housing": 1,
     "section": 4,
     "floor": 3,
-    "roomNo": 332,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 332,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "337",
     "housing": 1,
     "section": 4,
     "floor": 4,
-    "roomNo": 334,
-    "roomType": "3",
-    "residents": [
+    "flatNo": 334,
+    "flatType": "3",
+    "users": [
       {
         "id": "6"
       }
@@ -3159,36 +3159,36 @@
     "housing": 1,
     "section": 4,
     "floor": 4,
-    "roomNo": 335,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 335,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "339",
     "housing": 1,
     "section": 4,
     "floor": 4,
-    "roomNo": 337,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 337,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "340",
     "housing": 1,
     "section": 4,
     "floor": 4,
-    "roomNo": 336,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 336,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "341",
     "housing": 1,
     "section": 4,
     "floor": 5,
-    "roomNo": 338,
-    "roomType": "3",
-    "residents": [
+    "flatNo": 338,
+    "flatType": "3",
+    "users": [
       {
         "id": "45"
       },
@@ -3202,54 +3202,54 @@
     "housing": 1,
     "section": 4,
     "floor": 5,
-    "roomNo": 339,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 339,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "343",
     "housing": 1,
     "section": 4,
     "floor": 5,
-    "roomNo": 340,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 340,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "344",
     "housing": 1,
     "section": 4,
     "floor": 5,
-    "roomNo": 341,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 341,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "345",
     "housing": 1,
     "section": 4,
     "floor": 6,
-    "roomNo": 342,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 342,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "346",
     "housing": 1,
     "section": 4,
     "floor": 6,
-    "roomNo": 344,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 344,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "347",
     "housing": 1,
     "section": 4,
     "floor": 6,
-    "roomNo": 343,
-    "roomType": "1",
-    "residents": [
+    "flatNo": 343,
+    "flatType": "1",
+    "users": [
       {
         "id": "13"
       }
@@ -3260,126 +3260,126 @@
     "housing": 1,
     "section": 4,
     "floor": 6,
-    "roomNo": 345,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 345,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "349",
     "housing": 1,
     "section": 4,
     "floor": 7,
-    "roomNo": 346,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 346,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "350",
     "housing": 1,
     "section": 4,
     "floor": 7,
-    "roomNo": 347,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 347,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "351",
     "housing": 1,
     "section": 4,
     "floor": 7,
-    "roomNo": 349,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 349,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "352",
     "housing": 1,
     "section": 4,
     "floor": 7,
-    "roomNo": 348,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 348,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "353",
     "housing": 1,
     "section": 4,
     "floor": 8,
-    "roomNo": 350,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 350,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "354",
     "housing": 1,
     "section": 4,
     "floor": 8,
-    "roomNo": 351,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 351,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "355",
     "housing": 1,
     "section": 4,
     "floor": 8,
-    "roomNo": 352,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 352,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "356",
     "housing": 1,
     "section": 4,
     "floor": 8,
-    "roomNo": 353,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 353,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "357",
     "housing": 1,
     "section": 4,
     "floor": 9,
-    "roomNo": 357,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 357,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "358",
     "housing": 1,
     "section": 4,
     "floor": 10,
-    "roomNo": 358,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 358,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "359",
     "housing": 1,
     "section": 4,
     "floor": 10,
-    "roomNo": 359,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 359,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "360",
     "housing": 1,
     "section": 4,
     "floor": 10,
-    "roomNo": 360,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 360,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "361",
     "housing": 1,
     "section": 4,
     "floor": 10,
-    "roomNo": 361,
-    "roomType": "2",
-    "residents": [
+    "flatNo": 361,
+    "flatType": "2",
+    "users": [
       {
         "id": "60"
       }
@@ -3390,54 +3390,54 @@
     "housing": 1,
     "section": 4,
     "floor": 11,
-    "roomNo": 362,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 362,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "363",
     "housing": 1,
     "section": 4,
     "floor": 11,
-    "roomNo": 363,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 363,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "364",
     "housing": 1,
     "section": 4,
     "floor": 11,
-    "roomNo": 364,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 364,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "365",
     "housing": 1,
     "section": 4,
     "floor": 11,
-    "roomNo": 365,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 365,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "366",
     "housing": 1,
     "section": 4,
     "floor": 12,
-    "roomNo": 366,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 366,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "367",
     "housing": 1,
     "section": 4,
     "floor": 12,
-    "roomNo": 367,
-    "roomType": "1",
-    "residents": [
+    "flatNo": 367,
+    "flatType": "1",
+    "users": [
       {
         "id": "15"
       }
@@ -3448,99 +3448,99 @@
     "housing": 1,
     "section": 4,
     "floor": 12,
-    "roomNo": 368,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 368,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "369",
     "housing": 1,
     "section": 4,
     "floor": 12,
-    "roomNo": 369,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 369,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "370",
     "housing": 1,
     "section": 4,
     "floor": 13,
-    "roomNo": 370,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 370,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "371",
     "housing": 1,
     "section": 4,
     "floor": 13,
-    "roomNo": 371,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 371,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "372",
     "housing": 1,
     "section": 4,
     "floor": 13,
-    "roomNo": 372,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 372,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "373",
     "housing": 1,
     "section": 4,
     "floor": 13,
-    "roomNo": 373,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 373,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "374",
     "housing": 1,
     "section": 4,
     "floor": 14,
-    "roomNo": 374,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 374,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "375",
     "housing": 1,
     "section": 4,
     "floor": 14,
-    "roomNo": 375,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 375,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "376",
     "housing": 1,
     "section": 4,
     "floor": 14,
-    "roomNo": 376,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 376,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "377",
     "housing": 1,
     "section": 4,
     "floor": 14,
-    "roomNo": 377,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 377,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "378",
     "housing": 1,
     "section": 4,
     "floor": 15,
-    "roomNo": 378,
-    "roomType": "3",
-    "residents": [
+    "flatNo": 378,
+    "flatType": "3",
+    "users": [
       {
         "id": "34"
       },
@@ -3554,36 +3554,36 @@
     "housing": 1,
     "section": 4,
     "floor": 15,
-    "roomNo": 379,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 379,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "380",
     "housing": 1,
     "section": 4,
     "floor": 15,
-    "roomNo": 381,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 381,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "381",
     "housing": 1,
     "section": 4,
     "floor": 15,
-    "roomNo": 380,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 380,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "382",
     "housing": 1,
     "section": 4,
     "floor": 16,
-    "roomNo": 382,
-    "roomType": "3",
-    "residents": [
+    "flatNo": 382,
+    "flatType": "3",
+    "users": [
       {
         "id": "54"
       }
@@ -3594,27 +3594,27 @@
     "housing": 1,
     "section": 4,
     "floor": 16,
-    "roomNo": 383,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 383,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "384",
     "housing": 1,
     "section": 4,
     "floor": 16,
-    "roomNo": 384,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 384,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "385",
     "housing": 1,
     "section": 4,
     "floor": 16,
-    "roomNo": 385,
-    "roomType": "2",
-    "residents": [
+    "flatNo": 385,
+    "flatType": "2",
+    "users": [
       {
         "id": "27"
       }
@@ -3625,9 +3625,9 @@
     "housing": 1,
     "section": 4,
     "floor": 17,
-    "roomNo": 386,
-    "roomType": "3",
-    "residents": [
+    "flatNo": 386,
+    "flatType": "3",
+    "users": [
       {
         "id": "58"
       }
@@ -3638,162 +3638,162 @@
     "housing": 1,
     "section": 4,
     "floor": 17,
-    "roomNo": 387,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 387,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "388",
     "housing": 1,
     "section": 4,
     "floor": 17,
-    "roomNo": 388,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 388,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "389",
     "housing": 1,
     "section": 4,
     "floor": 17,
-    "roomNo": 389,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 389,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "390",
     "housing": 1,
     "section": 4,
     "floor": 18,
-    "roomNo": 390,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 390,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "391",
     "housing": 1,
     "section": 4,
     "floor": 18,
-    "roomNo": 391,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 391,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "392",
     "housing": 1,
     "section": 4,
     "floor": 18,
-    "roomNo": 392,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 392,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "393",
     "housing": 1,
     "section": 4,
     "floor": 18,
-    "roomNo": 393,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 393,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "394",
     "housing": 1,
     "section": 4,
     "floor": 19,
-    "roomNo": 394,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 394,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "395",
     "housing": 1,
     "section": 4,
     "floor": 19,
-    "roomNo": 396,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 396,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "396",
     "housing": 1,
     "section": 4,
     "floor": 19,
-    "roomNo": 395,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 395,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "397",
     "housing": 1,
     "section": 4,
     "floor": 20,
-    "roomNo": 398,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 398,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "398",
     "housing": 1,
     "section": 4,
     "floor": 19,
-    "roomNo": 397,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 397,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "399",
     "housing": 1,
     "section": 4,
     "floor": 20,
-    "roomNo": 399,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 399,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "400",
     "housing": 1,
     "section": 4,
     "floor": 20,
-    "roomNo": 400,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 400,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "401",
     "housing": 1,
     "section": 4,
     "floor": 21,
-    "roomNo": 402,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 402,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "402",
     "housing": 1,
     "section": 4,
     "floor": 20,
-    "roomNo": 401,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 401,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "403",
     "housing": 1,
     "section": 4,
     "floor": 21,
-    "roomNo": 403,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 403,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "404",
     "housing": 1,
     "section": 4,
     "floor": 21,
-    "roomNo": 404,
-    "roomType": "2",
-    "residents": [
+    "flatNo": 404,
+    "flatType": "2",
+    "users": [
       {
         "id": "55"
       }
@@ -3804,225 +3804,225 @@
     "housing": 1,
     "section": 4,
     "floor": 21,
-    "roomNo": 405,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 405,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "406",
     "housing": 1,
     "section": 4,
     "floor": 22,
-    "roomNo": 406,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 406,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "407",
     "housing": 1,
     "section": 4,
     "floor": 22,
-    "roomNo": 407,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 407,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "408",
     "housing": 1,
     "section": 4,
     "floor": 22,
-    "roomNo": 408,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 408,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "409",
     "housing": 1,
     "section": 4,
     "floor": 22,
-    "roomNo": 409,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 409,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "410",
     "housing": 1,
     "section": 4,
     "floor": 23,
-    "roomNo": 411,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 411,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "411",
     "housing": 1,
     "section": 4,
     "floor": 23,
-    "roomNo": 410,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 410,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "412",
     "housing": 1,
     "section": 4,
     "floor": 23,
-    "roomNo": 413,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 413,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "413",
     "housing": 1,
     "section": 4,
     "floor": 24,
-    "roomNo": 414,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 414,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "414",
     "housing": 1,
     "section": 4,
     "floor": 23,
-    "roomNo": 412,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 412,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "415",
     "housing": 1,
     "section": 4,
     "floor": 24,
-    "roomNo": 415,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 415,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "416",
     "housing": 1,
     "section": 4,
     "floor": 24,
-    "roomNo": 416,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 416,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "417",
     "housing": 1,
     "section": 4,
     "floor": 24,
-    "roomNo": 417,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 417,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "418",
     "housing": 1,
     "section": 4,
     "floor": 25,
-    "roomNo": 418,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 418,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "419",
     "housing": 1,
     "section": 4,
     "floor": 25,
-    "roomNo": 419,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 419,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "420",
     "housing": 1,
     "section": 4,
     "floor": 25,
-    "roomNo": 420,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 420,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "421",
     "housing": 1,
     "section": 4,
     "floor": 25,
-    "roomNo": 421,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 421,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "422",
     "housing": 1,
     "section": 5,
     "floor": 2,
-    "roomNo": 422,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 422,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "423",
     "housing": 1,
     "section": 5,
     "floor": 2,
-    "roomNo": 423,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 423,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "424",
     "housing": 1,
     "section": 5,
     "floor": 2,
-    "roomNo": 424,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 424,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "425",
     "housing": 1,
     "section": 5,
     "floor": 2,
-    "roomNo": 425,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 425,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "426",
     "housing": 1,
     "section": 5,
     "floor": 2,
-    "roomNo": 426,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 426,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "427",
     "housing": 1,
     "section": 5,
     "floor": 2,
-    "roomNo": 428,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 428,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "428",
     "housing": 1,
     "section": 5,
     "floor": 2,
-    "roomNo": 427,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 427,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "429",
     "housing": 1,
     "section": 5,
     "floor": 3,
-    "roomNo": 429,
-    "roomType": "1",
-    "residents": [
+    "flatNo": 429,
+    "flatType": "1",
+    "users": [
       {
         "id": "68"
       }
@@ -4033,27 +4033,27 @@
     "housing": 1,
     "section": 5,
     "floor": 3,
-    "roomNo": 430,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 430,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "431",
     "housing": 1,
     "section": 5,
     "floor": 3,
-    "roomNo": 432,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 432,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "432",
     "housing": 1,
     "section": 5,
     "floor": 3,
-    "roomNo": 431,
-    "roomType": "2",
-    "residents": [
+    "flatNo": 431,
+    "flatType": "2",
+    "users": [
       {
         "id": "56"
       }
@@ -4064,342 +4064,342 @@
     "housing": 1,
     "section": 5,
     "floor": 3,
-    "roomNo": 434,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 434,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "434",
     "housing": 1,
     "section": 5,
     "floor": 3,
-    "roomNo": 433,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 433,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "435",
     "housing": 1,
     "section": 5,
     "floor": 3,
-    "roomNo": 435,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 435,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "436",
     "housing": 1,
     "section": 5,
     "floor": 4,
-    "roomNo": 436,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 436,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "437",
     "housing": 1,
     "section": 5,
     "floor": 4,
-    "roomNo": 437,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 437,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "438",
     "housing": 1,
     "section": 5,
     "floor": 4,
-    "roomNo": 439,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 439,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "439",
     "housing": 1,
     "section": 5,
     "floor": 4,
-    "roomNo": 438,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 438,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "440",
     "housing": 1,
     "section": 5,
     "floor": 4,
-    "roomNo": 440,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 440,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "441",
     "housing": 1,
     "section": 5,
     "floor": 4,
-    "roomNo": 441,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 441,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "442",
     "housing": 1,
     "section": 5,
     "floor": 4,
-    "roomNo": 442,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 442,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "443",
     "housing": 1,
     "section": 5,
     "floor": 5,
-    "roomNo": 443,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 443,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "444",
     "housing": 1,
     "section": 5,
     "floor": 5,
-    "roomNo": 444,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 444,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "445",
     "housing": 1,
     "section": 5,
     "floor": 5,
-    "roomNo": 445,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 445,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "446",
     "housing": 1,
     "section": 5,
     "floor": 5,
-    "roomNo": 446,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 446,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "447",
     "housing": 1,
     "section": 5,
     "floor": 5,
-    "roomNo": 447,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 447,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "448",
     "housing": 1,
     "section": 5,
     "floor": 5,
-    "roomNo": 448,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 448,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "449",
     "housing": 1,
     "section": 5,
     "floor": 5,
-    "roomNo": 449,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 449,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "450",
     "housing": 1,
     "section": 5,
     "floor": 6,
-    "roomNo": 451,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 451,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "451",
     "housing": 1,
     "section": 5,
     "floor": 6,
-    "roomNo": 450,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 450,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "452",
     "housing": 1,
     "section": 5,
     "floor": 6,
-    "roomNo": 452,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 452,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "453",
     "housing": 1,
     "section": 5,
     "floor": 6,
-    "roomNo": 453,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 453,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "454",
     "housing": 1,
     "section": 5,
     "floor": 6,
-    "roomNo": 455,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 455,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "455",
     "housing": 1,
     "section": 5,
     "floor": 6,
-    "roomNo": 454,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 454,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "456",
     "housing": 1,
     "section": 5,
     "floor": 6,
-    "roomNo": 456,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 456,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "457",
     "housing": 1,
     "section": 5,
     "floor": 7,
-    "roomNo": 457,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 457,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "458",
     "housing": 1,
     "section": 5,
     "floor": 7,
-    "roomNo": 458,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 458,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "459",
     "housing": 1,
     "section": 5,
     "floor": 7,
-    "roomNo": 459,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 459,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "460",
     "housing": 1,
     "section": 5,
     "floor": 7,
-    "roomNo": 461,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 461,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "461",
     "housing": 1,
     "section": 5,
     "floor": 7,
-    "roomNo": 460,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 460,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "462",
     "housing": 1,
     "section": 5,
     "floor": 7,
-    "roomNo": 462,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 462,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "463",
     "housing": 1,
     "section": 5,
     "floor": 7,
-    "roomNo": 463,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 463,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "464",
     "housing": 1,
     "section": 5,
     "floor": 8,
-    "roomNo": 464,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 464,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "465",
     "housing": 1,
     "section": 5,
     "floor": 8,
-    "roomNo": 465,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 465,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "466",
     "housing": 1,
     "section": 5,
     "floor": 8,
-    "roomNo": 467,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 467,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "467",
     "housing": 1,
     "section": 5,
     "floor": 8,
-    "roomNo": 466,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 466,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "468",
     "housing": 1,
     "section": 5,
     "floor": 8,
-    "roomNo": 468,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 468,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "469",
     "housing": 1,
     "section": 5,
     "floor": 8,
-    "roomNo": 469,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 469,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "470",
     "housing": 1,
     "section": 5,
     "floor": 8,
-    "roomNo": 470,
-    "roomType": "1",
-    "residents": [
+    "flatNo": 470,
+    "flatType": "1",
+    "users": [
       {
         "id": "20"
       },
@@ -4413,81 +4413,81 @@
     "housing": 1,
     "section": 5,
     "floor": 9,
-    "roomNo": 471,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 471,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "472",
     "housing": 1,
     "section": 5,
     "floor": 9,
-    "roomNo": 472,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 472,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "473",
     "housing": 1,
     "section": 5,
     "floor": 9,
-    "roomNo": 474,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 474,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "474",
     "housing": 1,
     "section": 5,
     "floor": 9,
-    "roomNo": 473,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 473,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "475",
     "housing": 1,
     "section": 5,
     "floor": 9,
-    "roomNo": 475,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 475,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "476",
     "housing": 1,
     "section": 5,
     "floor": 9,
-    "roomNo": 476,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 476,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "477",
     "housing": 1,
     "section": 5,
     "floor": 9,
-    "roomNo": 477,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 477,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "478",
     "housing": 1,
     "section": 5,
     "floor": 10,
-    "roomNo": 478,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 478,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "479",
     "housing": 1,
     "section": 5,
     "floor": 10,
-    "roomNo": 480,
-    "roomType": "2",
-    "residents": [
+    "flatNo": 480,
+    "flatType": "2",
+    "users": [
       {
         "id": "28"
       },
@@ -4501,27 +4501,27 @@
     "housing": 1,
     "section": 5,
     "floor": 10,
-    "roomNo": 479,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 479,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "481",
     "housing": 1,
     "section": 5,
     "floor": 10,
-    "roomNo": 481,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 481,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "482",
     "housing": 1,
     "section": 5,
     "floor": 10,
-    "roomNo": 482,
-    "roomType": "1",
-    "residents": [
+    "flatNo": 482,
+    "flatType": "1",
+    "users": [
       {
         "id": "38"
       },
@@ -4538,117 +4538,117 @@
     "housing": 1,
     "section": 5,
     "floor": 10,
-    "roomNo": 483,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 483,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "484",
     "housing": 1,
     "section": 5,
     "floor": 10,
-    "roomNo": 484,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 484,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "485",
     "housing": 1,
     "section": 5,
     "floor": 11,
-    "roomNo": 485,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 485,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "486",
     "housing": 1,
     "section": 5,
     "floor": 11,
-    "roomNo": 486,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 486,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "487",
     "housing": 1,
     "section": 5,
     "floor": 11,
-    "roomNo": 488,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 488,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "488",
     "housing": 1,
     "section": 5,
     "floor": 11,
-    "roomNo": 487,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 487,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "489",
     "housing": 1,
     "section": 5,
     "floor": 11,
-    "roomNo": 489,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 489,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "490",
     "housing": 1,
     "section": 5,
     "floor": 11,
-    "roomNo": 490,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 490,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "491",
     "housing": 1,
     "section": 5,
     "floor": 12,
-    "roomNo": 492,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 492,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "492",
     "housing": 1,
     "section": 5,
     "floor": 11,
-    "roomNo": 491,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 491,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "493",
     "housing": 1,
     "section": 5,
     "floor": 12,
-    "roomNo": 493,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 493,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "494",
     "housing": 1,
     "section": 5,
     "floor": 12,
-    "roomNo": 494,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 494,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "495",
     "housing": 1,
     "section": 5,
     "floor": 12,
-    "roomNo": 496,
-    "roomType": "1",
-    "residents": [
+    "flatNo": 496,
+    "flatType": "1",
+    "users": [
       {
         "id": "62"
       }
@@ -4659,180 +4659,180 @@
     "housing": 1,
     "section": 5,
     "floor": 12,
-    "roomNo": 495,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 495,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "497",
     "housing": 1,
     "section": 5,
     "floor": 12,
-    "roomNo": 497,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 497,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "498",
     "housing": 1,
     "section": 5,
     "floor": 13,
-    "roomNo": 499,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 499,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "499",
     "housing": 1,
     "section": 5,
     "floor": 12,
-    "roomNo": 498,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 498,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "500",
     "housing": 1,
     "section": 5,
     "floor": 13,
-    "roomNo": 501,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 501,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "501",
     "housing": 1,
     "section": 5,
     "floor": 13,
-    "roomNo": 500,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 500,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "502",
     "housing": 1,
     "section": 5,
     "floor": 13,
-    "roomNo": 502,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 502,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "503",
     "housing": 1,
     "section": 5,
     "floor": 13,
-    "roomNo": 503,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 503,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "504",
     "housing": 1,
     "section": 5,
     "floor": 13,
-    "roomNo": 504,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 504,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "505",
     "housing": 1,
     "section": 5,
     "floor": 13,
-    "roomNo": 505,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 505,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "506",
     "housing": 1,
     "section": 5,
     "floor": 14,
-    "roomNo": 507,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 507,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "507",
     "housing": 1,
     "section": 5,
     "floor": 14,
-    "roomNo": 506,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 506,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "508",
     "housing": 1,
     "section": 5,
     "floor": 14,
-    "roomNo": 509,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 509,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "509",
     "housing": 1,
     "section": 5,
     "floor": 14,
-    "roomNo": 508,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 508,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "510",
     "housing": 1,
     "section": 5,
     "floor": 14,
-    "roomNo": 510,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 510,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "511",
     "housing": 1,
     "section": 5,
     "floor": 14,
-    "roomNo": 511,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 511,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "512",
     "housing": 1,
     "section": 5,
     "floor": 14,
-    "roomNo": 512,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 512,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "513",
     "housing": 1,
     "section": 5,
     "floor": 15,
-    "roomNo": 513,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 513,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "514",
     "housing": 1,
     "section": 5,
     "floor": 15,
-    "roomNo": 514,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 514,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "515",
     "housing": 1,
     "section": 5,
     "floor": 15,
-    "roomNo": 515,
-    "roomType": "2",
-    "residents": [
+    "flatNo": 515,
+    "flatType": "2",
+    "users": [
       {
         "id": "7"
       }
@@ -4843,342 +4843,342 @@
     "housing": 1,
     "section": 5,
     "floor": 15,
-    "roomNo": 516,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 516,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "517",
     "housing": 1,
     "section": 5,
     "floor": 15,
-    "roomNo": 517,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 517,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "518",
     "housing": 1,
     "section": 5,
     "floor": 15,
-    "roomNo": 518,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 518,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "519",
     "housing": 1,
     "section": 5,
     "floor": 15,
-    "roomNo": 519,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 519,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "520",
     "housing": 1,
     "section": 5,
     "floor": 16,
-    "roomNo": 520,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 520,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "521",
     "housing": 1,
     "section": 5,
     "floor": 16,
-    "roomNo": 521,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 521,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "522",
     "housing": 1,
     "section": 5,
     "floor": 16,
-    "roomNo": 522,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 522,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "523",
     "housing": 1,
     "section": 5,
     "floor": 16,
-    "roomNo": 523,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 523,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "524",
     "housing": 1,
     "section": 5,
     "floor": 16,
-    "roomNo": 524,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 524,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "525",
     "housing": 1,
     "section": 5,
     "floor": 16,
-    "roomNo": 525,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 525,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "526",
     "housing": 1,
     "section": 5,
     "floor": 16,
-    "roomNo": 526,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 526,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "527",
     "housing": 1,
     "section": 5,
     "floor": 17,
-    "roomNo": 527,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 527,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "528",
     "housing": 1,
     "section": 5,
     "floor": 17,
-    "roomNo": 528,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 528,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "529",
     "housing": 1,
     "section": 5,
     "floor": 17,
-    "roomNo": 529,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 529,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "530",
     "housing": 1,
     "section": 5,
     "floor": 17,
-    "roomNo": 530,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 530,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "531",
     "housing": 1,
     "section": 5,
     "floor": 17,
-    "roomNo": 531,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 531,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "532",
     "housing": 1,
     "section": 5,
     "floor": 17,
-    "roomNo": 532,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 532,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "533",
     "housing": 1,
     "section": 5,
     "floor": 17,
-    "roomNo": 533,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 533,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "534",
     "housing": 1,
     "section": 5,
     "floor": 18,
-    "roomNo": 534,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 534,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "535",
     "housing": 1,
     "section": 5,
     "floor": 18,
-    "roomNo": 535,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 535,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "536",
     "housing": 1,
     "section": 5,
     "floor": 18,
-    "roomNo": 536,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 536,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "537",
     "housing": 1,
     "section": 5,
     "floor": 18,
-    "roomNo": 537,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 537,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "538",
     "housing": 1,
     "section": 5,
     "floor": 18,
-    "roomNo": 538,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 538,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "539",
     "housing": 1,
     "section": 5,
     "floor": 18,
-    "roomNo": 539,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 539,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "540",
     "housing": 1,
     "section": 5,
     "floor": 18,
-    "roomNo": 540,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 540,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "541",
     "housing": 1,
     "section": 5,
     "floor": 19,
-    "roomNo": 541,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 541,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "542",
     "housing": 1,
     "section": 5,
     "floor": 19,
-    "roomNo": 542,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 542,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "543",
     "housing": 1,
     "section": 5,
     "floor": 19,
-    "roomNo": 543,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 543,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "544",
     "housing": 1,
     "section": 5,
     "floor": 19,
-    "roomNo": 544,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 544,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "545",
     "housing": 1,
     "section": 5,
     "floor": 19,
-    "roomNo": 545,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 545,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "546",
     "housing": 1,
     "section": 5,
     "floor": 19,
-    "roomNo": 547,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 547,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "547",
     "housing": 1,
     "section": 5,
     "floor": 19,
-    "roomNo": 546,
-    "roomType": "C",
-    "residents": []
+    "flatNo": 546,
+    "flatType": "C",
+    "users": []
   },
   {
     "id": "548",
     "housing": 1,
     "section": 5,
     "floor": 20,
-    "roomNo": 548,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 548,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "549",
     "housing": 1,
     "section": 5,
     "floor": 20,
-    "roomNo": 549,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 549,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "550",
     "housing": 1,
     "section": 5,
     "floor": 20,
-    "roomNo": 551,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 551,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "551",
     "housing": 1,
     "section": 5,
     "floor": 20,
-    "roomNo": 550,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 550,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "552",
     "housing": 1,
     "section": 5,
     "floor": 20,
-    "roomNo": 552,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 552,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "553",
     "housing": 1,
     "section": 5,
     "floor": 20,
-    "roomNo": 553,
-    "roomType": "C",
-    "residents": [
+    "flatNo": 553,
+    "flatType": "C",
+    "users": [
       {
         "id": "2"
       }
@@ -5189,90 +5189,90 @@
     "housing": 1,
     "section": 5,
     "floor": 20,
-    "roomNo": 554,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 554,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "555",
     "housing": 1,
     "section": 6,
     "floor": 2,
-    "roomNo": 555,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 555,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "556",
     "housing": 1,
     "section": 6,
     "floor": 2,
-    "roomNo": 557,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 557,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "557",
     "housing": 1,
     "section": 6,
     "floor": 2,
-    "roomNo": 556,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 556,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "558",
     "housing": 1,
     "section": 6,
     "floor": 2,
-    "roomNo": 558,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 558,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "559",
     "housing": 1,
     "section": 6,
     "floor": 3,
-    "roomNo": 559,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 559,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "560",
     "housing": 1,
     "section": 6,
     "floor": 3,
-    "roomNo": 560,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 560,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "561",
     "housing": 1,
     "section": 6,
     "floor": 3,
-    "roomNo": 561,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 561,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "562",
     "housing": 1,
     "section": 6,
     "floor": 3,
-    "roomNo": 562,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 562,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "563",
     "housing": 1,
     "section": 6,
     "floor": 4,
-    "roomNo": 563,
-    "roomType": "3",
-    "residents": [
+    "flatNo": 563,
+    "flatType": "3",
+    "users": [
       {
         "id": "25"
       },
@@ -5286,63 +5286,63 @@
     "housing": 1,
     "section": 6,
     "floor": 4,
-    "roomNo": 564,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 564,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "565",
     "housing": 1,
     "section": 6,
     "floor": 4,
-    "roomNo": 565,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 565,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "566",
     "housing": 1,
     "section": 6,
     "floor": 4,
-    "roomNo": 566,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 566,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "567",
     "housing": 1,
     "section": 6,
     "floor": 5,
-    "roomNo": 567,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 567,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "568",
     "housing": 1,
     "section": 6,
     "floor": 5,
-    "roomNo": 569,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 569,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "569",
     "housing": 1,
     "section": 6,
     "floor": 5,
-    "roomNo": 568,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 568,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "570",
     "housing": 1,
     "section": 6,
     "floor": 6,
-    "roomNo": 571,
-    "roomType": "3",
-    "residents": [
+    "flatNo": 571,
+    "flatType": "3",
+    "users": [
       {
         "id": "8"
       }
@@ -5353,36 +5353,36 @@
     "housing": 1,
     "section": 6,
     "floor": 6,
-    "roomNo": 572,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 572,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "572",
     "housing": 1,
     "section": 6,
     "floor": 5,
-    "roomNo": 570,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 570,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "573",
     "housing": 1,
     "section": 6,
     "floor": 6,
-    "roomNo": 574,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 574,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "574",
     "housing": 1,
     "section": 6,
     "floor": 6,
-    "roomNo": 573,
-    "roomType": "2",
-    "residents": [
+    "flatNo": 573,
+    "flatType": "2",
+    "users": [
       {
         "id": "67"
       }
@@ -5393,135 +5393,135 @@
     "housing": 1,
     "section": 6,
     "floor": 7,
-    "roomNo": 575,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 575,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "576",
     "housing": 1,
     "section": 6,
     "floor": 7,
-    "roomNo": 576,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 576,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "577",
     "housing": 1,
     "section": 6,
     "floor": 7,
-    "roomNo": 578,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 578,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "578",
     "housing": 1,
     "section": 6,
     "floor": 7,
-    "roomNo": 577,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 577,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "579",
     "housing": 1,
     "section": 6,
     "floor": 8,
-    "roomNo": 580,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 580,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "580",
     "housing": 1,
     "section": 6,
     "floor": 8,
-    "roomNo": 579,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 579,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "581",
     "housing": 1,
     "section": 6,
     "floor": 8,
-    "roomNo": 581,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 581,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "582",
     "housing": 1,
     "section": 6,
     "floor": 8,
-    "roomNo": 582,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 582,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "583",
     "housing": 1,
     "section": 6,
     "floor": 9,
-    "roomNo": 583,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 583,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "584",
     "housing": 1,
     "section": 6,
     "floor": 9,
-    "roomNo": 584,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 584,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "585",
     "housing": 1,
     "section": 6,
     "floor": 9,
-    "roomNo": 586,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 586,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "586",
     "housing": 1,
     "section": 6,
     "floor": 9,
-    "roomNo": 585,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 585,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "587",
     "housing": 1,
     "section": 6,
     "floor": 10,
-    "roomNo": 587,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 587,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "588",
     "housing": 1,
     "section": 6,
     "floor": 10,
-    "roomNo": 588,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 588,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "589",
     "housing": 1,
     "section": 6,
     "floor": 10,
-    "roomNo": 589,
-    "roomType": "2",
-    "residents": [
+    "flatNo": 589,
+    "flatType": "2",
+    "users": [
       {
         "id": "57"
       }
@@ -5532,9 +5532,9 @@
     "housing": 1,
     "section": 6,
     "floor": 11,
-    "roomNo": 591,
-    "roomType": "3",
-    "residents": [
+    "flatNo": 591,
+    "flatType": "3",
+    "users": [
       {
         "id": "16"
       }
@@ -5545,9 +5545,9 @@
     "housing": 1,
     "section": 6,
     "floor": 10,
-    "roomNo": 590,
-    "roomType": "2",
-    "residents": [
+    "flatNo": 590,
+    "flatType": "2",
+    "users": [
       {
         "id": "50"
       }
@@ -5558,54 +5558,54 @@
     "housing": 1,
     "section": 6,
     "floor": 11,
-    "roomNo": 593,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 593,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "593",
     "housing": 1,
     "section": 6,
     "floor": 11,
-    "roomNo": 592,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 592,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "594",
     "housing": 1,
     "section": 6,
     "floor": 12,
-    "roomNo": 595,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 595,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "595",
     "housing": 1,
     "section": 6,
     "floor": 11,
-    "roomNo": 594,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 594,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "596",
     "housing": 1,
     "section": 6,
     "floor": 12,
-    "roomNo": 596,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 596,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "597",
     "housing": 1,
     "section": 6,
     "floor": 12,
-    "roomNo": 597,
-    "roomType": "2",
-    "residents": [
+    "flatNo": 597,
+    "flatType": "2",
+    "users": [
       {
         "id": "61"
       }
@@ -5616,9 +5616,9 @@
     "housing": 1,
     "section": 6,
     "floor": 13,
-    "roomNo": 599,
-    "roomType": "3",
-    "residents": [
+    "flatNo": 599,
+    "flatType": "3",
+    "users": [
       {
         "id": "48"
       }
@@ -5629,90 +5629,90 @@
     "housing": 1,
     "section": 6,
     "floor": 12,
-    "roomNo": 598,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 598,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "600",
     "housing": 1,
     "section": 6,
     "floor": 13,
-    "roomNo": 600,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 600,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "601",
     "housing": 1,
     "section": 6,
     "floor": 13,
-    "roomNo": 601,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 601,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "602",
     "housing": 1,
     "section": 6,
     "floor": 13,
-    "roomNo": 602,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 602,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "603",
     "housing": 1,
     "section": 6,
     "floor": 14,
-    "roomNo": 603,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 603,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "604",
     "housing": 1,
     "section": 6,
     "floor": 14,
-    "roomNo": 604,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 604,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "605",
     "housing": 1,
     "section": 6,
     "floor": 14,
-    "roomNo": 605,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 605,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "606",
     "housing": 1,
     "section": 6,
     "floor": 14,
-    "roomNo": 606,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 606,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "607",
     "housing": 1,
     "section": 6,
     "floor": 15,
-    "roomNo": 607,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 607,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "608",
     "housing": 1,
     "section": 6,
     "floor": 15,
-    "roomNo": 608,
-    "roomType": "1",
-    "residents": [
+    "flatNo": 608,
+    "flatType": "1",
+    "users": [
       {
         "id": "12"
       }
@@ -5723,216 +5723,216 @@
     "housing": 1,
     "section": 6,
     "floor": 15,
-    "roomNo": 609,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 609,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "610",
     "housing": 1,
     "section": 6,
     "floor": 15,
-    "roomNo": 610,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 610,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "611",
     "housing": 1,
     "section": 6,
     "floor": 16,
-    "roomNo": 611,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 611,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "612",
     "housing": 1,
     "section": 6,
     "floor": 16,
-    "roomNo": 612,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 612,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "613",
     "housing": 1,
     "section": 6,
     "floor": 16,
-    "roomNo": 613,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 613,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "614",
     "housing": 1,
     "section": 6,
     "floor": 16,
-    "roomNo": 614,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 614,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "615",
     "housing": 1,
     "section": 6,
     "floor": 17,
-    "roomNo": 615,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 615,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "616",
     "housing": 1,
     "section": 6,
     "floor": 17,
-    "roomNo": 617,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 617,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "617",
     "housing": 1,
     "section": 6,
     "floor": 17,
-    "roomNo": 616,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 616,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "618",
     "housing": 1,
     "section": 6,
     "floor": 18,
-    "roomNo": 619,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 619,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "619",
     "housing": 1,
     "section": 6,
     "floor": 17,
-    "roomNo": 618,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 618,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "620",
     "housing": 1,
     "section": 6,
     "floor": 18,
-    "roomNo": 621,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 621,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "621",
     "housing": 1,
     "section": 6,
     "floor": 18,
-    "roomNo": 620,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 620,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "622",
     "housing": 1,
     "section": 6,
     "floor": 19,
-    "roomNo": 623,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 623,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "623",
     "housing": 1,
     "section": 6,
     "floor": 18,
-    "roomNo": 622,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 622,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "624",
     "housing": 1,
     "section": 6,
     "floor": 19,
-    "roomNo": 624,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 624,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "625",
     "housing": 1,
     "section": 6,
     "floor": 19,
-    "roomNo": 625,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 625,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "626",
     "housing": 1,
     "section": 6,
     "floor": 20,
-    "roomNo": 627,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 627,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "627",
     "housing": 1,
     "section": 6,
     "floor": 19,
-    "roomNo": 626,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 626,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "628",
     "housing": 1,
     "section": 6,
     "floor": 20,
-    "roomNo": 628,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 628,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "629",
     "housing": 1,
     "section": 6,
     "floor": 20,
-    "roomNo": 629,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 629,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "630",
     "housing": 1,
     "section": 6,
     "floor": 20,
-    "roomNo": 630,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 630,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "631",
     "housing": 1,
     "section": 6,
     "floor": 21,
-    "roomNo": 631,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 631,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "632",
     "housing": 1,
     "section": 6,
     "floor": 21,
-    "roomNo": 632,
-    "roomType": "1",
-    "residents": [
+    "flatNo": 632,
+    "flatType": "1",
+    "users": [
       {
         "id": "32"
       }
@@ -5943,161 +5943,161 @@
     "housing": 1,
     "section": 6,
     "floor": 21,
-    "roomNo": 633,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 633,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "634",
     "housing": 1,
     "section": 6,
     "floor": 22,
-    "roomNo": 635,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 635,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "635",
     "housing": 1,
     "section": 6,
     "floor": 21,
-    "roomNo": 634,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 634,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "636",
     "housing": 1,
     "section": 6,
     "floor": 22,
-    "roomNo": 636,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 636,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "637",
     "housing": 1,
     "section": 6,
     "floor": 22,
-    "roomNo": 637,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 637,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "638",
     "housing": 1,
     "section": 6,
     "floor": 22,
-    "roomNo": 638,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 638,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "639",
     "housing": 1,
     "section": 6,
     "floor": 23,
-    "roomNo": 639,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 639,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "640",
     "housing": 1,
     "section": 6,
     "floor": 23,
-    "roomNo": 640,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 640,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "641",
     "housing": 1,
     "section": 6,
     "floor": 23,
-    "roomNo": 641,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 641,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "642",
     "housing": 1,
     "section": 6,
     "floor": 23,
-    "roomNo": 642,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 642,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "643",
     "housing": 1,
     "section": 6,
     "floor": 24,
-    "roomNo": 644,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 644,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "644",
     "housing": 1,
     "section": 6,
     "floor": 24,
-    "roomNo": 643,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 643,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "645",
     "housing": 1,
     "section": 6,
     "floor": 24,
-    "roomNo": 646,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 646,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "646",
     "housing": 1,
     "section": 6,
     "floor": 24,
-    "roomNo": 645,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 645,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "647",
     "housing": 1,
     "section": 6,
     "floor": 25,
-    "roomNo": 648,
-    "roomType": "1",
-    "residents": []
+    "flatNo": 648,
+    "flatType": "1",
+    "users": []
   },
   {
     "id": "648",
     "housing": 1,
     "section": 6,
     "floor": 25,
-    "roomNo": 647,
-    "roomType": "3",
-    "residents": []
+    "flatNo": 647,
+    "flatType": "3",
+    "users": []
   },
   {
     "id": "649",
     "housing": 1,
     "section": 6,
     "floor": 25,
-    "roomNo": 650,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 650,
+    "flatType": "2",
+    "users": []
   },
   {
     "id": "650",
     "housing": 1,
     "section": 6,
     "floor": 25,
-    "roomNo": 649,
-    "roomType": "2",
-    "residents": []
+    "flatNo": 649,
+    "flatType": "2",
+    "users": []
   }
 ]
