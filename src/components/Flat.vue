@@ -2,23 +2,21 @@
   <div class="chess-floor__flat">
     <app-popper
       trigger="clickToOpen"
-      :disabled="!flat.hasUser"
       :options="{
         placement: 'bottom',
       }">
       <div class="popper flat-popper">
-        <template v-if="flat.users">
-          <AppUser
-            v-for="(user, userIndex) in flat.users"
-            :key="userIndex"
-            :user="user"
-          />
-        </template>
+        <app-user
+          v-for="(user, userIndex) in flat.users"
+          :key="userIndex"
+          :user="user"
+        />
+        <app-login v-if="!loggedIn" :flatId="flat.id" />
       </div>
       <div
         :class="{
           flat: true,
-          'flat-filled': flat.hasUser,
+          'flat-filled': filled,
         }"
         slot="reference"
       >
@@ -31,15 +29,22 @@
 <script>
 import eventBus from '../eventBus';
 import AppUser from './User';
+import AppLogin from './Login';
 import AppPopper from 'vue-popperjs';
 import 'vue-popperjs/dist/vue-popper.css';
 
 export default {
-  components: { AppPopper, AppUser },
+  components: { AppPopper, AppUser, AppLogin },
   props: ['flat', 'flatIndex'],
   computed: {
     viewType() {
       return eventBus.$data.viewType;
+    },
+    loggedIn() {
+      return eventBus.$data.loggedIn;
+    },
+    filled() {
+      return this.flat.hasUser || (this.flat.users && this.flat.users.length > 0);
     }
   }
 }

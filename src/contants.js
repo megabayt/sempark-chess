@@ -1,0 +1,1 @@
+export const GQL_AUTH_TOKEN = 'graphql-auth-token'
