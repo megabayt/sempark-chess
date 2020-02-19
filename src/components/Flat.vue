@@ -2,21 +2,21 @@
   <div class="chess-floor__flat">
     <app-popper
       trigger="clickToOpen"
-      :disabled="!flat.residents.length"
+      :disabled="!flat.hasResident"
       :options="{
         placement: 'bottom',
       }">
-      <div class="popper flat-popper">
+      <!-- <div class="popper flat-popper">
         <AppResident
           v-for="(resident, residentIndex) in flat.residents"
           :key="residentIndex"
           :resident="resident"
         />
-      </div>
+      </div> -->
       <div
         :class="{
           flat: true,
-          'flat-filled': flat.residents.length !== 0,
+          'flat-filled': flat.hasResident,
         }"
         slot="reference"
       >
@@ -28,12 +28,12 @@
 
 <script>
 import eventBus from '../eventBus';
-import AppResident from './Resident';
+// import AppResident from './Resident';
 import AppPopper from 'vue-popperjs';
 import 'vue-popperjs/dist/vue-popper.css';
 
 export default {
-  components: { AppPopper, AppResident },
+  components: { AppPopper/*, AppResident */ },
   props: ['flat', 'flatIndex'],
   computed: {
     viewType() {

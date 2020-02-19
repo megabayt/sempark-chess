@@ -25,22 +25,16 @@ import AppMinimap from "./components/Minimap";
 export default {
   components: { AppSection, AppRoomNoSwitch, AppMinimap },
   apollo: {
-    flats: gql`
+    flatsFilled: gql`
       query {
-        flats (sort: "roomNo:asc", limit: 650) {
+        flatsFilled (sort: "roomNo:asc", limit: 650) {
           id
           housing
           section
           floor
           roomNo
           roomType
-          residents {
-            id
-            # name
-            # vkId
-            # telegramId
-            # whatsappPhone
-          }
+          hasResident
         }
       }
     `
@@ -52,7 +46,7 @@ export default {
   // },
   computed: {
     sections() {
-      const sections = groupBy(this.flats, 'section');
+      const sections = groupBy(this.flatsFilled, 'section');
       return Object.values(sections).map((flat) => {
         const floors = groupBy(flat, 'floor');
         return {
