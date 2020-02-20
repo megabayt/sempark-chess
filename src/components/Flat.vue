@@ -11,7 +11,7 @@
           :key="userIndex"
           :user="user"
         />
-        <app-login v-if="!loggedIn" :flatId="flat.id" />
+        <app-login v-if="!loggedIn" :flat="flat" />
       </div>
       <div
         :class="{

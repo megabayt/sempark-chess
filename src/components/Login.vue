@@ -10,58 +10,60 @@
     </div>
     <div class="register" v-if="!loginMode">
       <div>
-        <span>Вы проживаете здесь?</span>
+        <span>Вы проживаете здесь?</span> <br>
+        <span>Номер вашей квартиры {{ flat.flatNo }}?</span> <br>
+        <span>Заполните форму, чтобы зарегистрироваться</span>
       </div>
       <div class="form-group">
-        <label :for="`${flatId}-username`">
+        <label :for="`${flat.id}-username`">
           Ваш логин
           <span class="required">*</span>
         </label>
-        <input type="text" :id="`${flatId}-username`" v-model="form.username" />
+        <input type="text" :id="`${flat.id}-username`" v-model="form.username" />
       </div>
       <div class="form-group">
-        <label :for="`${flatId}-name`">
+        <label :for="`${flat.id}-name`">
           Ваше Имя
           <span class="required">*</span>
         </label>
-        <input type="text" :id="`${flatId}-name`" v-model="form.name" />
+        <input type="text" :id="`${flat.id}-name`" v-model="form.name" />
       </div>
       <div class="form-group">
-        <label :for="`${flatId}-vkId`">ID Вконтакте</label>
-        <input type="text" :id="`${flatId}-vkId`" v-model="form.vkId" />
+        <label :for="`${flat.id}-vkId`">ID Вконтакте</label>
+        <input type="text" :id="`${flat.id}-vkId`" v-model="form.vkId" />
       </div>
       <div class="form-group">
-        <label :for="`${flatId}-telegramId`">ID Telegram</label>
-        <input type="text" :id="`${flatId}-telegramId`" v-model="form.telegramId" />
+        <label :for="`${flat.id}-telegramId`">ID Telegram</label>
+        <input type="text" :id="`${flat.id}-telegramId`" v-model="form.telegramId" />
       </div>
       <div class="form-group">
-        <label :for="`${flatId}-whatsappPhone`">Whatsapp (номер телефона)</label>
-        <input type="text" :id="`${flatId}-whatsappPhone`" v-model="form.whatsappPhone" />
+        <label :for="`${flat.id}-whatsappPhone`">Whatsapp (номер телефона)</label>
+        <input type="text" :id="`${flat.id}-whatsappPhone`" v-model="form.whatsappPhone" />
       </div>
       <div class="form-group">
-        <label :for="`${flatId}-password`">
+        <label :for="`${flat.id}-password`">
           Пароль
           <span class="required">*</span>
         </label>
-        <input type="password" :id="`${flatId}-password`" v-model="form.password" />
+        <input type="password" :id="`${flat.id}-password`" v-model="form.password" />
       </div>
       <div class="form-group">
-        <label :for="`${flatId}-confirmPassword`">
+        <label :for="`${flat.id}-confirmPassword`">
           Подтвердите пароль
           <span class="required">*</span>
         </label>
-        <input type="password" :id="`${flatId}-confirmPassword`" v-model="form.confirmPassword" />
+        <input type="password" :id="`${flat.id}-confirmPassword`" v-model="form.confirmPassword" />
       </div>
       <button class="btn" @click="register()">Зарегистрироваться</button>
     </div>
     <div class="login" v-if="loginMode">
       <div class="form-group">
-        <label :for="`${flatId}-username`">Ваш логин</label>
-        <input type="text" :id="`${flatId}-username`" v-model="form.username" />
+        <label :for="`${flat.id}-username`">Ваш логин</label>
+        <input type="text" :id="`${flat.id}-username`" v-model="form.username" />
       </div>
       <div class="form-group">
-        <label :for="`${flatId}-password`">Пароль</label>
-        <input type="password" :id="`${flatId}-password`" v-model="form.password" />
+        <label :for="`${flat.id}-password`">Пароль</label>
+        <input type="password" :id="`${flat.id}-password`" v-model="form.password" />
       </div>
       <button class="btn" @click="login()">Войти</button>
     </div>
@@ -78,7 +80,7 @@ import AppSwitch from "./Switch";
 
 export default {
   components: { AppSwitch },
-  props: ["flatId"],
+  props: ["flat"],
   data() {
     return {
       loginMode: false,
@@ -172,7 +174,7 @@ export default {
       const input = {
         ...this.form,
         email: `${uuid()}@sempark.xyz`,
-        flat: this.flatId
+        flat: this.flat.id
       };
 
       delete input.confirmPassword;
