@@ -13,15 +13,15 @@
         <span>Вы проживаете здесь?</span>
       </div>
       <div class="form-group">
-        <label :for="`${flatId}-username`">Ваш логин</label>
+        <label :for="`${flatId}-username`">Ваш логин <span class="required">*</span></label>
         <input type="text" :id="`${flatId}-username`" v-model="form.username" />
       </div>
       <div class="form-group">
-        <label :for="`${flatId}-email`">Ваш E-mail</label>
+        <label :for="`${flatId}-email`">Ваш E-mail <span class="required">*</span></label>
         <input type="text" :id="`${flatId}-email`" v-model="form.email" />
       </div>
       <div class="form-group">
-        <label :for="`${flatId}-email`">Ваше Имя</label>
+        <label :for="`${flatId}-email`">Ваше Имя <span class="required">*</span></label>
         <input type="text" :id="`${flatId}-name`" v-model="form.name" />
       </div>
       <div class="form-group">
@@ -37,11 +37,11 @@
         <input type="text" :id="`${flatId}-whatsappPhone`" v-model="form.whatsappPhone" />
       </div>
       <div class="form-group">
-        <label :for="`${flatId}-password`">Пароль</label>
+        <label :for="`${flatId}-password`">Пароль <span class="required">*</span></label>
         <input type="password" :id="`${flatId}-password`" v-model="form.password" />
       </div>
       <div class="form-group">
-        <label :for="`${flatId}-confirmPassword`">Подтвердите пароль</label>
+        <label :for="`${flatId}-confirmPassword`">Подтвердите пароль <span class="required">*</span></label>
         <input type="password" :id="`${flatId}-confirmPassword`" v-model="form.confirmPassword" />
       </div>
       <button class="btn" @click="register()">Зарегистрироваться</button>
@@ -216,5 +216,8 @@ export default {
 }
 .form-group > * {
   margin: 0 5px;
+}
+.form-group .required {
+  color: #ff7f7f;
 }
 </style>
