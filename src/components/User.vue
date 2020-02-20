@@ -1,6 +1,6 @@
 <template>
   <div class="user">
-    <span class="user__name">{{ user.username }}</span>
+    <span class="user__name">{{ user.name }}</span>
     <div class="user__socialLinks">
       <app-social-link v-if="user.vkId" type="vk" :href="`https://vk.com/${user.vkId}`" />
       <app-social-link

@@ -13,11 +13,17 @@
         <span>Вы проживаете здесь?</span>
       </div>
       <div class="form-group">
-        <label :for="`${flatId}-username`">Ваш логин <span class="required">*</span></label>
+        <label :for="`${flatId}-username`">
+          Ваш логин
+          <span class="required">*</span>
+        </label>
         <input type="text" :id="`${flatId}-username`" v-model="form.username" />
       </div>
       <div class="form-group">
-        <label :for="`${flatId}-name`">Ваше Имя <span class="required">*</span></label>
+        <label :for="`${flatId}-name`">
+          Ваше Имя
+          <span class="required">*</span>
+        </label>
         <input type="text" :id="`${flatId}-name`" v-model="form.name" />
       </div>
       <div class="form-group">
@@ -33,11 +39,17 @@
         <input type="text" :id="`${flatId}-whatsappPhone`" v-model="form.whatsappPhone" />
       </div>
       <div class="form-group">
-        <label :for="`${flatId}-password`">Пароль <span class="required">*</span></label>
+        <label :for="`${flatId}-password`">
+          Пароль
+          <span class="required">*</span>
+        </label>
         <input type="password" :id="`${flatId}-password`" v-model="form.password" />
       </div>
       <div class="form-group">
-        <label :for="`${flatId}-confirmPassword`">Подтвердите пароль <span class="required">*</span></label>
+        <label :for="`${flatId}-confirmPassword`">
+          Подтвердите пароль
+          <span class="required">*</span>
+        </label>
         <input type="password" :id="`${flatId}-confirmPassword`" v-model="form.confirmPassword" />
       </div>
       <button class="btn" @click="register()">Зарегистрироваться</button>
@@ -58,6 +70,8 @@
 
 <script>
 import gql from "graphql-tag";
+import get from "lodash/get";
+import uuid from "uuid/v4";
 import { GQL_AUTH_TOKEN } from "../contants";
 import eventBus from "../eventBus";
 import AppSwitch from "./Switch";
@@ -71,7 +85,6 @@ export default {
       form: {
         username: "",
         name: "",
-        email: "user@sempark.xyz",
         password: "",
         confirmPassword: "",
         vkId: "",
@@ -148,7 +161,9 @@ export default {
           }
         },
         update: this.afterLogin
-      });
+      })
+      .then(() => {})
+      .catch(this.handleError);
     },
     register() {
       if (!this.validateForm()) {
@@ -156,24 +171,28 @@ export default {
       }
       const input = {
         ...this.form,
+        email: `${uuid()}@sempark.xyz`,
         flat: this.flatId
       };
 
       delete input.confirmPassword;
 
-      this.$apollo.mutate({
-        mutation: gql`
-          mutation register($input: UserInput!) {
-            register(input: $input) {
-              jwt
+      this.$apollo
+        .mutate({
+          mutation: gql`
+            mutation register($input: UserInput!) {
+              register(input: $input) {
+                jwt
+              }
             }
-          }
-        `,
-        variables: {
-          input
-        },
-        update: this.afterLogin
-      });
+          `,
+          variables: {
+            input
+          },
+          update: this.afterLogin
+        })
+        .then(() => {})
+        .catch(this.handleError);
     },
     afterLogin(cache, { data }) {
       const jwt =
@@ -184,6 +203,23 @@ export default {
         localStorage.setItem(GQL_AUTH_TOKEN, jwt);
         eventBus.$data.loggedIn = true;
       }
+    },
+    handleError(error) {
+      const messages = get(
+        error,
+        "networkError.result.errors[0].extensions.data[0].messages"
+      );
+      const id = get(messages, "[0].id");
+      const message = get(messages, "[0].id");
+      if (id === "Auth.form.error.username.taken") {
+        alert("Данный логин уже занят, попробуйте другой");
+        return;
+      }
+      if (id === "Auth.form.error.invalid") {
+        alert("Неверный логин или пароль");
+        return;
+      }
+      alert(message);
     }
   }
 };
