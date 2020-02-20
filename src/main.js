@@ -6,6 +6,9 @@ import { HttpLink } from 'apollo-link-http'
 import { onError } from 'apollo-link-error';
 import { InMemoryCache } from 'apollo-cache-inmemory'
 import VueApollo from 'vue-apollo'
+import Vuetify from 'vuetify'
+import 'vuetify/dist/vuetify.min.css'
+
 import get from 'lodash/get';
 
 import App from './App.vue'
@@ -13,8 +16,8 @@ import { GQL_AUTH_TOKEN } from './contants';
 import eventBus from './eventBus';
 
 const uri = process.env.NODE_ENV === 'production'
-  ? 'https://api.sempark.xyz/graphql'
-  : 'http://localhost:1337/graphql';
+? 'https://api.sempark.xyz/graphql'
+: 'http://localhost:1337/graphql';
 
 const httpLink = new HttpLink({ uri });
 
@@ -52,11 +55,15 @@ const apolloProvider = new VueApollo({
   defaultClient: apolloClient,
 })
 
+const vuetify = new Vuetify({})
+
 Vue.use(VueApollo)
+Vue.use(Vuetify)
 
 Vue.config.productionTip = false
 
 new Vue({
   apolloProvider,
+  vuetify,
   render: h => h(App),
 }).$mount('#app')
