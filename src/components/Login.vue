@@ -13,43 +13,47 @@
         <span>Вы проживаете здесь?</span>
       </div>
       <div class="form-group">
-        <label for="username">Ваше имя</label>
-        <input type="text" id="username" v-model="form.username" />
+        <label :for="`${flatId}-username`">Ваш логин</label>
+        <input type="text" :id="`${flatId}-username`" v-model="form.username" />
       </div>
       <div class="form-group">
-        <label for="email">E-mail</label>
-        <input type="text" id="email" v-model="form.email" />
+        <label :for="`${flatId}-email`">Ваш E-mail</label>
+        <input type="text" :id="`${flatId}-email`" v-model="form.email" />
       </div>
       <div class="form-group">
-        <label for="vkId">ID Вконтакте</label>
-        <input type="text" id="vkId" v-model="form.vkId" />
+        <label :for="`${flatId}-email`">Ваше Имя</label>
+        <input type="text" :id="`${flatId}-name`" v-model="form.name" />
       </div>
       <div class="form-group">
-        <label for="telegramId">ID Telegram</label>
-        <input type="text" id="telegramId" v-model="form.telegramId" />
+        <label :for="`${flatId}-vkId`">ID Вконтакте</label>
+        <input type="text" :id="`${flatId}-vkId`" v-model="form.vkId" />
       </div>
       <div class="form-group">
-        <label for="whatsappPhone">Whatsapp (номер телефона)</label>
-        <input type="text" id="whatsappPhone" v-model="form.whatsappPhone" />
+        <label :for="`${flatId}-telegramId`">ID Telegram</label>
+        <input type="text" :id="`${flatId}-telegramId`" v-model="form.telegramId" />
       </div>
       <div class="form-group">
-        <label for="password">Пароль</label>
-        <input type="password" id="password" v-model="form.password" />
+        <label :for="`${flatId}-whatsappPhone`">Whatsapp (номер телефона)</label>
+        <input type="text" :id="`${flatId}-whatsappPhone`" v-model="form.whatsappPhone" />
       </div>
       <div class="form-group">
-        <label for="confirmPassword">Подтвердите пароль</label>
-        <input type="password" id="confirmPassword" v-model="form.confirmPassword" />
+        <label :for="`${flatId}-password`">Пароль</label>
+        <input type="password" :id="`${flatId}-password`" v-model="form.password" />
+      </div>
+      <div class="form-group">
+        <label :for="`${flatId}-confirmPassword`">Подтвердите пароль</label>
+        <input type="password" :id="`${flatId}-confirmPassword`" v-model="form.confirmPassword" />
       </div>
       <button class="btn" @click="register()">Зарегистрироваться</button>
     </div>
     <div class="login" v-if="loginMode">
       <div class="form-group">
-        <label for="email">E-mail</label>
-        <input type="text" id="email" v-model="form.email" />
+        <label :for="`${flatId}-username`">Ваш логин</label>
+        <input type="text" :id="`${flatId}-username`" v-model="form.username" />
       </div>
       <div class="form-group">
-        <label for="password">Пароль</label>
-        <input type="password" id="password" v-model="form.password" />
+        <label :for="`${flatId}-password`">Пароль</label>
+        <input type="password" :id="`${flatId}-password`" v-model="form.password" />
       </div>
       <button class="btn" @click="login()">Войти</button>
     </div>
@@ -64,12 +68,13 @@ import AppSwitch from "./Switch";
 
 export default {
   components: { AppSwitch },
-  props: ['flatId'],
+  props: ["flatId"],
   data() {
     return {
       loginMode: false,
       form: {
         username: "",
+        name: "",
         email: "",
         password: "",
         confirmPassword: "",
@@ -83,6 +88,62 @@ export default {
     toggleLoginMode() {
       this.loginMode = !this.loginMode;
     },
+    validateForm() {
+      const { form } = this;
+
+      for (let key in form) {
+        if (key === "username" && !form[key]) {
+          alert("Введите логин!");
+          return false;
+        }
+        if (
+          key === "email" &&
+          !/^(([^<>()[\]\\.,;:\s@"]+(\.[^<>()[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/g.test(
+            form[key]
+          )
+        ) {
+          alert("Введите E-mail в формате XXXX@XXX.XXX!");
+          return false;
+        }
+        if (key === "name" && !form[key]) {
+          alert("Введите имя!");
+          return false;
+        }
+        if (key === "vkId" || key === "telegramId") {
+          if (form[key] && !/[A-Za-z\d_]/g.test(form[key])) {
+            alert(
+              `${key} может состоять только из латинских букв, цифр и знака подчеркивания`
+            );
+            return false;
+          }
+        }
+        7914526456456456;
+        if (
+          key === "whatsappPhone" &&
+          form.whatsappPhone &&
+          !/79\d{9}$/g.test(form.whatsappPhone)
+        ) {
+          alert("Введите номер whatsapp в формате 79XXXXXXXXX");
+          return false;
+        }
+        if (key === "password") {
+          if (!form[key]) {
+            alert("Введите пароль");
+            return false;
+          }
+          if (form[key].length < 6) {
+            alert("Пароль должен быть больше 6 символов!");
+            return false;
+          }
+        }
+      }
+
+      if (form.password !== form.confirmPassword) {
+        alert("Пароли не совпадают!");
+        return false;
+      }
+      return true;
+    },
     login() {
       this.$apollo.mutate({
         mutation: gql`
@@ -94,7 +155,7 @@ export default {
         `,
         variables: {
           input: {
-            identifier: this.form.email,
+            identifier: this.form.username,
             password: this.form.password,
             provider: "local"
           }
@@ -103,9 +164,12 @@ export default {
       });
     },
     register() {
+      if (!this.validateForm()) {
+        return false;
+      }
       const input = {
         ...this.form,
-        flat: this.flatId,
+        flat: this.flatId
       };
 
       delete input.confirmPassword;
