@@ -1,6 +1,6 @@
 <template>
   <div class="user">
-    <span class="user__name">{{ user.name }}</span>
+    <span class="user__name">{{ user.username }}</span>
     <div class="user__socialLinks">
       <app-social-link v-if="user.vkId" type="vk" :href="`https://vk.com/${user.vkId}`" />
       <app-social-link
@@ -22,13 +22,14 @@ import AppSocialLink from "./SocialLink";
 
 export default {
   components: { AppSocialLink },
-  props: ["user"]
+  props: ["user"],
 };
 </script>
 
 <style scoped>
 .user {
   margin-bottom: 7px;
+  min-width: 150px;
 }
 .user__name {
   display: block;

@@ -3,6 +3,7 @@
     <div class="top">
       <app-flat-no-switch />
       <app-minimap />
+      <app-logout />
     </div>
     <div class="chessboard">
       <app-section
@@ -21,23 +22,70 @@ import groupBy from "lodash/groupBy";
 import AppSection from "./components/Section";
 import AppFlatNoSwitch from "./components/FlatNoSwitch";
 import AppMinimap from "./components/Minimap";
+import AppLogout from "./components/Logout";
+import eventBus from "./eventBus";
 
 export default {
-  components: { AppSection, AppFlatNoSwitch, AppMinimap },
+  components: { AppSection, AppFlatNoSwitch, AppMinimap, AppLogout },
   apollo: {
-    flatsFilled: gql`
-      query {
-        flatsFilled (sort: "flatNo:asc", limit: 650) {
-          id
-          housing
-          section
-          floor
-          flatNo
-          flatType
-          hasUser
+    me: {
+      query: gql`
+        query {
+          me {
+            role {
+              id
+              name
+              description
+              type
+            }
+          }
         }
+      `,
+      skip() {
+        return !this.loggedIn;
       }
-    `
+    },
+    flatsFilled: {
+      query: gql`
+        query {
+          flatsFilled(sort: "flatNo:asc", limit: 650) {
+            id
+            housing
+            section
+            floor
+            flatNo
+            flatType
+            hasUser
+          }
+        }
+      `,
+      skip() {
+        return this.canSeeResidents;
+      }
+    },
+    flats: {
+      query: gql`
+        query {
+          flats(sort: "flatNo:asc", limit: 650) {
+            id
+            housing
+            section
+            floor
+            flatNo
+            flatType
+            users {
+              username
+              vkId
+              telegramId
+              whatsappPhone
+            }
+          }
+        }
+      `,
+      skip() {
+        return !this.canSeeResidents;
+      }
+    }
   },
   // data() {
   //   return {
@@ -45,20 +93,31 @@ export default {
   //   };
   // },
   computed: {
+    loggedIn() {
+      return eventBus.$data.loggedIn;
+    },
+    canSeeResidents() {
+      return eventBus.$data.loggedIn
+        && this.me
+        && this.me.role
+        && this.me.role.type === "resident";
+    },
     sections() {
-      const sections = groupBy(this.flatsFilled, 'section');
-      return Object.values(sections).map((flat) => {
-        const floors = groupBy(flat, 'floor');
+      const sections = this.canSeeResidents
+        ? groupBy(this.flats, "section")
+        : groupBy(this.flatsFilled, "section");
+      return Object.values(sections).map(flat => {
+        const floors = groupBy(flat, "floor");
         return {
-          floors: Object.values(floors).map((flats) => {
+          floors: Object.values(floors).map(flats => {
             return {
-              flats,
+              flats
             };
-          }),
-        }
+          })
+        };
       });
     }
-  },
+  }
 };
 </script>
 
