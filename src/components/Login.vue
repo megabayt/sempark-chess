@@ -1,12 +1,12 @@
 <template>
   <div class="container">
     <div class="top">
-      <app-switch
+      <!-- <app-switch
         label="Зарегистрироваться"
         rightLabel="Войти"
         :checked="loginMode"
         @change="toggleLoginMode"
-      />
+      /> -->
     </div>
     <div class="register" v-if="!loginMode">
       <div>
@@ -74,10 +74,8 @@ import get from "lodash/get";
 import uuid from "uuid/v4";
 import { GQL_AUTH_TOKEN } from "../contants";
 import eventBus from "../eventBus";
-import AppSwitch from "./Switch";
 
 export default {
-  components: { AppSwitch },
   props: ["flatId"],
   data() {
     return {

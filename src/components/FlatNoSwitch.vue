@@ -1,20 +1,17 @@
 <template>
-  <app-switch
-    label="Отображать номер квартиры"
+  <v-switch
     :checked="viewType"
     @change="toggleViewType"
   />
 </template>
 
 <script>
-import AppSwitch from './Switch';
 import eventBus from "../eventBus";
 
 export default {
-  components: { AppSwitch },
   methods: {
     toggleViewType(e) {
-      eventBus.$data.viewType = e.target.checked;
+      eventBus.$data.viewType = e;
     }
   },
   computed: {
