@@ -17,11 +17,7 @@
         <input type="text" :id="`${flatId}-username`" v-model="form.username" />
       </div>
       <div class="form-group">
-        <label :for="`${flatId}-email`">Ваш E-mail <span class="required">*</span></label>
-        <input type="text" :id="`${flatId}-email`" v-model="form.email" />
-      </div>
-      <div class="form-group">
-        <label :for="`${flatId}-email`">Ваше Имя <span class="required">*</span></label>
+        <label :for="`${flatId}-name`">Ваше Имя <span class="required">*</span></label>
         <input type="text" :id="`${flatId}-name`" v-model="form.name" />
       </div>
       <div class="form-group">
@@ -75,7 +71,7 @@ export default {
       form: {
         username: "",
         name: "",
-        email: "",
+        email: "user@sempark.xyz",
         password: "",
         confirmPassword: "",
         vkId: "",
@@ -94,15 +90,6 @@ export default {
       for (let key in form) {
         if (key === "username" && !form[key]) {
           alert("Введите логин!");
-          return false;
-        }
-        if (
-          key === "email" &&
-          !/^(([^<>()[\]\\.,;:\s@"]+(\.[^<>()[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/g.test(
-            form[key]
-          )
-        ) {
-          alert("Введите E-mail в формате XXXX@XXX.XXX!");
           return false;
         }
         if (key === "name" && !form[key]) {
