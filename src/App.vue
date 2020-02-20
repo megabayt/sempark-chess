@@ -28,6 +28,23 @@ import eventBus from "./eventBus";
 export default {
   components: { AppSection, AppFlatNoSwitch, AppMinimap, AppLogout },
   apollo: {
+    me: {
+      query: gql`
+        query {
+          me {
+            role {
+              id
+              name
+              description
+              type
+            }
+          }
+        }
+      `,
+      skip() {
+        return !this.loggedIn;
+      }
+    },
     flatsFilled: {
       query: gql`
         query {
@@ -43,13 +60,13 @@ export default {
         }
       `,
       skip() {
-        return this.loggedIn;
+        return this.canSeeResidents;
       }
     },
     flats: {
       query: gql`
         query {
-          flats (sort: "flatNo:asc", limit: 650) {
+          flats(sort: "flatNo:asc", limit: 650) {
             id
             housing
             section
@@ -63,11 +80,11 @@ export default {
               whatsappPhone
             }
           }
-        },
+        }
       `,
       skip() {
-        return !this.loggedIn;
-      },
+        return !this.canSeeResidents;
+      }
     }
   },
   // data() {
@@ -79,8 +96,14 @@ export default {
     loggedIn() {
       return eventBus.$data.loggedIn;
     },
+    canSeeResidents() {
+      return eventBus.$data.loggedIn
+        && this.me
+        && this.me.role
+        && this.me.role.type === "resident";
+    },
     sections() {
-      const sections = eventBus.$data.loggedIn
+      const sections = this.canSeeResidents
         ? groupBy(this.flats, "section")
         : groupBy(this.flatsFilled, "section");
       return Object.values(sections).map(flat => {
