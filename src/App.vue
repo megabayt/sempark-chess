@@ -75,6 +75,7 @@ export default {
             flatType
             users {
               username
+              name
               vkId
               telegramId
               whatsappPhone
